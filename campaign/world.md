@@ -14,6 +14,7 @@ Reference for the GM. The player may read this too; it holds no spoilers. Secret
 - **Neon and rain.** Every scene can have a light source and a reflection, which matters because Alice scrys in reflections.
 - **Synth on the radio, city pop in the bars.** Arcades, karaoke boxes, late-night ramen counters, convenience stores glowing at 3 a.m.
 - **Old under the new.** Shrines wedged between towers, foxes on the rooftops, lanterns that light themselves. Magic is real here and older than the city, but most people would rather not talk about it.
+- **The city is haunted.** Ghosts are part of Yūgure's everyday life: yūrei who linger where they died, a payphone that rings for the dead, a karaoke booth nobody books after midnight, faces in the canal that aren't reflections. Some ghosts want help, some want company, a few want something worse. Alice's gift lets her see and talk to more of them than most people can.
 
 ## Districts (starting palette)
 

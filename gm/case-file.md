@@ -115,7 +115,7 @@ The player loves the supernatural: ghosts and spooky beats are welcome in every 
 - **The builder's ghost.** **Kuroda Isamu**, who built the Tōrō Engine, still haunts the Engine hall, tapping relays. He's fond of Simon ("the first one who understands her") and hates Sayo. A route into E, and help in the finale if Alice earns his trust.
 - **Bar Kurage's drowned piano player**, a quiet ghost who plays one song at 2 a.m. and saw everything that came through the mirror (extra route to C).
 - **South coast:** the house has an old, harmless presence in the loft (a great-grandmother witch? the aunts would know) that knocks when Alice is near something important. Use it to nudge toward the spell book box and the aunt's letter.
-- Ghosts never threaten the cats; the cats can see ghosts and find them unimpressive.
+- Ghosts never threaten the cats. The cats can see ghosts: Saskee (friendly, a bit of a scaredy-cat) hides behind Alice's legs; Suki couldn't care less. Both adore Simon and treat Alice as the spare.
 
 ## 7. Revisions
 

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-26T12:23:45Z",
+  "updated_at": "2026-10-26T12:28:22Z",
   "character": {
     "name": "Alice",
     "title": "Witch, newly woken",
@@ -96,14 +96,14 @@
   "case": {
     "title": "The disappearance of Simon",
     "day": 1,
-    "summary": "Simon has been staying late at the office lately with a client's accounts, Hoshino Holdings. He says they don't add up, and won't say more.",
+    "summary": "Simon has been shut in his study at all hours lately with a client's accounts, Hoshino Holdings. He says they don't add up, and won't say more.",
     "questions": [
       "What doesn't add up in the Hoshino accounts?"
     ],
     "clues": [
       {
         "title": "The Hoshino file",
-        "text": "Simon had been staying late at the office with a client's accounts, Hoshino Holdings. He said they 'didn't add up' and wouldn't say more.",
+        "text": "Simon has been shut in his study at all hours with a client's accounts, Hoshino Holdings. He said they 'didn't add up' and wouldn't say more.",
         "source": "Work",
         "status": "new"
       }
@@ -111,10 +111,10 @@
     "people": [
       {
         "name": "Simon",
-        "role": "Alice's husband, software engineer, early forties",
+        "role": "Alice's husband, software developer, early forties",
         "stance": "ally",
         "icon": "🧑‍💻",
-        "notes": "Working late on the Hoshino accounts most nights lately."
+        "notes": "Shut in his study on the Hoshino accounts most nights lately."
       }
     ],
     "places": [

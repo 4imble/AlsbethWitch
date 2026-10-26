@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-26T12:34:49Z",
+  "updated_at": "2026-10-26T12:39:03Z",
   "character": {
     "name": "Alice",
     "title": "Witch, newly woken",
@@ -95,14 +95,20 @@
   "case": {
     "title": "The disappearance of Simon",
     "day": 1,
-    "summary": "Simon has been shut in his study until all hours lately with a strange old program he found. He says it's doing things code shouldn't do, and won't say more.",
+    "summary": "A few weeks ago, after a storm, Simon brought home an old paper lantern he found washed up on the beach and hung it in his study window. Since then he's slept badly, says he hears a woman singing in the study at night, and once joked that the lantern lit itself.",
     "questions": [
-      "What is the old program Simon found, and what is it doing?"
+      "Where did the lantern come from, and who is singing?"
     ],
     "clues": [
       {
-        "title": "The program in the study",
-        "text": "Simon has been absorbed for weeks in an odd piece of old software he found. He said it was 'doing things code shouldn't do', and wouldn't say more.",
+        "title": "The lantern from the beach",
+        "text": "After the storm, Simon found an old paper lantern in the shingle, dry as a bone, printed with characters neither of them can read. He hung it in his study window.",
+        "source": "Simon",
+        "status": "new"
+      },
+      {
+        "title": "Singing in the night",
+        "text": "Since the lantern came, Simon has slept badly. He says he hears a woman singing in the study late at night, and once joked that the lantern had lit itself.",
         "source": "Simon",
         "status": "new"
       }
@@ -113,7 +119,7 @@
         "role": "Alice's husband, software developer, early forties",
         "stance": "ally",
         "icon": "🧑‍💻",
-        "notes": "Shut in his study until all hours lately with a strange old program."
+        "notes": "Sleeping badly since he hung the beach lantern in his study window."
       }
     ],
     "places": [
@@ -237,6 +243,6 @@
     ]
   },
   "player_notes": [],
-  "last_log": "Alice comes home through the fog. The house is very quiet.",
+  "last_log": "Alice comes home through the fog with milk and cat treats. The house is very quiet.",
   "notes": ""
 }

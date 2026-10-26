@@ -10,7 +10,7 @@ On her nineteenth birthday Alice blew out her candles and nothing happened. Noth
 
 She met Simon at work. He's a software engineer in his early forties at the same firm, and he has the patience of a man who debugs other people's code for a living. He laughs at her jokes, makes her tea without asking, and has never once minded sharing the bed with two black cats.
 
-They live in a terraced house a few streets from the sea with **Saskee**, bold and nosy and first through any open door, and **Suki**, quiet and watchful, who trusts nobody but Alice.
+They live in a terraced house a few streets from the sea with **Saskee**, bold and nosy and first through any open door, and **Suki**, quiet and watchful, who trusts almost nobody. Both cats adore Simon above all things and consider Alice the spare: perfectly acceptable for meals and a warm lap, but no substitute for him.
 
 ### The night everything changed
 

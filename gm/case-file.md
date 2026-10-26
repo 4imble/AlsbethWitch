@@ -94,7 +94,7 @@ Each conclusion has at least three routes. Looking in the right place sensibly f
 ## 6. Places and NPCs
 
 **South coast**
-- **Home.** Terraced house near the sea. The study: Simon's laptop, printouts, notepad, cold tea. The loft: a box with Alice's old things and the aunts' spell book (it's in her satchel already, but the box holds an aunt's letter). The garden wall: the door.
+- **Home.** Terraced house near the sea. The study: Simon's laptop, printouts, notepad, his tea in his unchipped green frog mug. The loft: a box with Alice's old things and the aunts' spell book (it's in her satchel already, but the box holds an aunt's letter). The garden wall: the door.
 - **Mrs Doreen Hart.** Next door, seventies, nosy, kind, feeds the cats biscuits she shouldn't.
 - **PC Dawson.** Local police on the phone; polite, unhurried, thinks Simon walked out.
 - **Aunt Prue.** Alice's surviving aunt, Cornwall, answers the phone after nine rings. Knows more than she ever said. ("So it's come, then.")

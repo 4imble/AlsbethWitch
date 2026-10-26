@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-26T14:20:44Z",
+  "updated_at": "2026-10-26T14:24:24Z",
   "character": {
     "name": "Alice",
     "title": "Witch, newly woken",
@@ -99,7 +99,8 @@
     "questions": [
       "Where is Simon? He left without his coat, shoes, keys or phone.",
       "Where did the lantern come from, and who is singing?",
-      "What does the line on Simon's laptop say?"
+      "What does the line on Simon's laptop say?",
+      "What did Aunt Prue know about lanterns that come over the water?"
     ],
     "clues": [
       {
@@ -125,6 +126,12 @@
         "text": "On Simon's laptop, one line of curling characters repeats down the screen, top to bottom, and keeps adding more. They look like the writing on the lantern.",
         "source": "Simon's laptop",
         "status": "new"
+      },
+      {
+        "title": "Aunt Prue's letter",
+        "text": "Tucked in a box in the loft: 'If a lantern ever comes to your window over the water, it is not a gift, it is a summons. Don't let anyone answer it who isn't ready to go. Ring me.' Signed Prue, with a phone number.",
+        "source": "Home: the loft",
+        "status": "new"
       }
     ],
     "people": [
@@ -134,6 +141,13 @@
         "stance": "missing",
         "icon": "🧑‍💻",
         "notes": "Gone from the house without his coat, shoes, keys or phone."
+      },
+      {
+        "name": "Aunt Prue",
+        "role": "Alice's aunt, the last of the family witches",
+        "stance": "contact",
+        "icon": "☎️",
+        "notes": "Left a letter in the loft with her phone number. Seems to know about the lantern."
       }
     ],
     "places": [
@@ -185,7 +199,7 @@
     ]
   },
   "world": {
-    "location": "Home",
+    "location": "Home: the loft",
     "district": "South coast of England",
     "time": "About quarter past eight, the evening Simon vanished",
     "weather": "Sea fog rolling in",
@@ -195,7 +209,7 @@
         "role": "Black cat",
         "icon": "🐈‍⬛",
         "notes": "Friendly boy, a bit of a scaredy-cat. Adores Simon.",
-        "status": "On the landing at Alice's feet, hoping Simon will answer"
+        "status": "Waiting nervously at the foot of the loft ladder"
       },
       {
         "name": "Suki",
@@ -259,6 +273,6 @@
     ]
   },
   "player_notes": [],
-  "last_log": "Alice calls Simon's name. The lantern breathes light, and the loft knocks twice.",
+  "last_log": "In the loft, something cold sits beside Alice. A faint line of light glows low on the garden wall.",
   "notes": ""
 }

@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-26T12:00:00Z",
+  "updated_at": "2026-10-26T11:59:35Z",
   "character": {
     "name": "Alice",
     "title": "Witch, newly woken",
     "calling": "Late-blooming witch from the south coast",
     "origin": "A terraced house a few streets from the sea, on England's south coast",
-    "occupation": "Accountant (works at the same firm as Simon)",
+    "occupation": "Works at the same accountancy firm as Simon",
     "look": "Dark coat, sensible boots, sparks at her fingertips when she's upset"
   },
   "resolve": {
@@ -69,10 +69,10 @@
       "description": "Since the night Simon vanished, Alice notices what's hidden by magic: glamours, wards, and doors other people walk straight past."
     },
     {
-      "name": "Ledger Mind",
+      "name": "Sharp Eye",
       "kind": "talent",
       "status": "active",
-      "description": "Years of balancing other people's books. When numbers, times or stories don't add up, Alice feels it before she can say why."
+      "description": "When numbers, times or stories don't add up, Alice feels it before she can say why."
     },
     {
       "name": "Stop the clock",

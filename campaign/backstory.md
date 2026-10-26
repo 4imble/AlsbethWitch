@@ -4,11 +4,11 @@
 
 Alice comes from a family of witches, or so her aunts always said. In their house the kettle sometimes boiled before anyone switched it on, and the cats were treated as if they understood every word. The family gift, her aunts promised, would wake on her nineteenth birthday, as it had for them.
 
-On her nineteenth birthday Alice blew out her candles and nothing happened. Nothing happened the next day, or the next year. Her aunts gave her their old spell book anyway, full of rhymes and recipes and warnings in the margins, and told her to be patient. Eventually Alice stopped waiting. She put the book in a box in the loft and became an accountant, which has its own kind of magic: making things balance.
+On her nineteenth birthday Alice blew out her candles and nothing happened. Nothing happened the next day, or the next year. Her aunts gave her their old spell book anyway, full of rhymes and recipes and warnings in the margins, and told her to be patient. Eventually Alice stopped waiting. She put the book in a box in the loft and got on with ordinary life, including a job at an accountancy firm on the south coast.
 
 ### Simon
 
-She met Simon at work. He's a software engineer in his early forties, at the same firm on the south coast, building the systems the accountants use, and he has the patience of a man who debugs other people's code for a living. He laughs at her jokes, makes her tea without asking, and has never once minded sharing the bed with two black cats.
+She met Simon at work. He's a software engineer in his early forties at the same firm, and he has the patience of a man who debugs other people's code for a living. He laughs at her jokes, makes her tea without asking, and has never once minded sharing the bed with two black cats.
 
 They live in a terraced house a few streets from the sea with **Saskee**, bold and nosy and first through any open door, and **Suki**, quiet and watchful, who trusts nobody but Alice.
 

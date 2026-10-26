@@ -115,7 +115,7 @@ This file holds the secret truth. The player has agreed not to read it, and the 
 
 ## Opening the game
 
-If the log holds only "The empty chair", begin at home on the south coast, that evening. Let Alice explore the house and the clues (study, laptop, coat, the cats staring at the garden wall). Let her powers wake: the kettle boiling by itself, sparks when she's upset, the old spell book in the loft, a lamp lighting when she points. Let her discover the door in the garden wall that only she can see, with the cats waiting by it. Don't rush her through. Crossing into Yūgure is the end of the first chapter.
+If the log holds only "The empty chair", begin at home on the south coast, that evening. Let Alice explore the house and the clues (study, laptop, coat, the cats staring at the garden wall). Let her powers wake: the kettle boiling by itself, sparks when she's upset, the old spell book in the loft, a lamp lighting when she points. Alice starts as an ordinary person on the sheet: every magical power is `locked` and witchlight is 0/0. Guide her into discovering her powers early, one at a time, and unlock each on the sheet the moment she first uses it, using its definition in `gm/powers.md`. Set witchlight to 4/4 when her first costed power wakes. Let her discover the door in the garden wall that only she can see, with the cats waiting by it. Don't rush her through. Crossing into Yūgure is the end of the first chapter.
 
 ## Keeping the sheet in step
 

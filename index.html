@@ -709,7 +709,7 @@
       $('resolve-bar').style.background = barColour(rpct);
       fill('conditions', (s.conditions ?? []).map((x) => el('span', { class: 'chip' }, x)));
       fill('witchlight-pips', Array.from({ length: s.witchlight.max }, (_, i) => el('div', { class: i < s.witchlight.current ? 'pip' : 'pip empty', title: i < s.witchlight.current ? 'Ready' : 'Spent' })));
-      text('witchlight-sub', s.witchlight.current === 0 ? 'Burnt out' : `${s.witchlight.current} of ${s.witchlight.max} left`);
+      text('witchlight-sub', s.witchlight.max === 0 ? 'Not yet woken' : s.witchlight.current === 0 ? 'Burnt out' : `${s.witchlight.current} of ${s.witchlight.max} left`);
       text('case-day', cs.day);
       const open = (cs.clues ?? []).filter((x) => x.status !== 'dead end').length;
       text('case-sub', `${open} live ${open === 1 ? 'lead' : 'leads'}`);

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-26T12:16:08Z",
+  "updated_at": "2026-10-26T12:18:11Z",
   "character": {
     "name": "Alice",
     "title": "Witch, newly woken",
@@ -175,13 +175,13 @@
         "name": "Saskee",
         "role": "Black cat",
         "icon": "🐈‍⬛",
-        "notes": "Bold and nosy. First through any open door."
+        "notes": "Bold and nosy. First through any open door, and Simon's shadow. Alice is the spare."
       },
       {
         "name": "Suki",
         "role": "Black cat",
         "icon": "🐈‍⬛",
-        "notes": "Quiet and watchful. Notices everything, trusts no one."
+        "notes": "Quiet and watchful. Adores Simon; Alice will do."
       }
     ]
   },

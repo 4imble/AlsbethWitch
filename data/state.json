@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-26T14:24:24Z",
+  "updated_at": "2026-10-26T14:29:24Z",
   "character": {
     "name": "Alice",
     "title": "Witch, newly woken",
@@ -147,7 +147,7 @@
         "role": "Alice's aunt, the last of the family witches",
         "stance": "contact",
         "icon": "☎️",
-        "notes": "Left a letter in the loft with her phone number. Seems to know about the lantern."
+        "notes": "Left a letter in the loft. Her number: 01637 555 0142. Seems to know about the lantern."
       }
     ],
     "places": [
@@ -192,6 +192,11 @@
       {
         "name": "Bag of cat treats",
         "qty": 1
+      },
+      {
+        "name": "Mobile phone",
+        "qty": 1,
+        "notes": "Aunt Prue's number saved in it."
       }
     ],
     "keepsakes": [
@@ -199,9 +204,9 @@
     ]
   },
   "world": {
-    "location": "Home: the loft",
+    "location": "The back garden",
     "district": "South coast of England",
-    "time": "About quarter past eight, the evening Simon vanished",
+    "time": "About half past eight",
     "weather": "Sea fog rolling in",
     "companions": [
       {
@@ -209,14 +214,14 @@
         "role": "Black cat",
         "icon": "🐈‍⬛",
         "notes": "Friendly boy, a bit of a scaredy-cat. Adores Simon.",
-        "status": "Waiting nervously at the foot of the loft ladder"
+        "status": "Inside the house, watching from the back door"
       },
       {
         "name": "Suki",
         "role": "Black cat",
         "icon": "🐈‍⬛",
         "notes": "Couldn't care less about anything. Adores Simon; Alice will do.",
-        "status": "At the back door, staring at the garden wall"
+        "status": "Inside the house, watching from the back door"
       }
     ]
   },
@@ -273,6 +278,6 @@
     ]
   },
   "player_notes": [],
-  "last_log": "In the loft, something cold sits beside Alice. A faint line of light glows low on the garden wall.",
+  "last_log": "The garden is white with fog. Low on the wall, the ivy has parted around a line of light.",
   "notes": ""
 }

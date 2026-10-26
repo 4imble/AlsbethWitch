@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-26T12:39:03Z",
+  "updated_at": "2026-10-26T12:47:14Z",
   "character": {
     "name": "Alice",
     "title": "Witch, newly woken",
@@ -95,9 +95,11 @@
   "case": {
     "title": "The disappearance of Simon",
     "day": 1,
-    "summary": "A few weeks ago, after a storm, Simon brought home an old paper lantern he found washed up on the beach and hung it in his study window. Since then he's slept badly, says he hears a woman singing in the study at night, and once joked that the lantern lit itself.",
+    "summary": "Simon is gone. His coat, shoes, keys and phone are all still here, his tea is still warm, and the house is empty. A few weeks ago he hung an old paper lantern from the beach in his study window, and he's been hearing singing at night ever since.",
     "questions": [
-      "Where did the lantern come from, and who is singing?"
+      "Where is Simon? He left without his coat, shoes, keys or phone.",
+      "Where did the lantern come from, and who is singing?",
+      "What does the line on Simon's laptop say?"
     ],
     "clues": [
       {
@@ -111,21 +113,33 @@
         "text": "Since the lantern came, Simon has slept badly. He says he hears a woman singing in the study late at night, and once joked that the lantern had lit itself.",
         "source": "Simon",
         "status": "new"
+      },
+      {
+        "title": "Still-warm tea",
+        "text": "Simon's study: his chair pushed back, his tea still warm in his green frog mug, his phone face down beside it. No sign of a struggle. Every room in the house is empty.",
+        "source": "Home: the study",
+        "status": "new"
+      },
+      {
+        "title": "A line he never typed",
+        "text": "On Simon's laptop, one line of curling characters repeats down the screen, top to bottom, and keeps adding more. They look like the writing on the lantern.",
+        "source": "Simon's laptop",
+        "status": "new"
       }
     ],
     "people": [
       {
         "name": "Simon",
         "role": "Alice's husband, software developer, early forties",
-        "stance": "ally",
+        "stance": "missing",
         "icon": "🧑‍💻",
-        "notes": "Sleeping badly since he hung the beach lantern in his study window."
+        "notes": "Gone from the house without his coat, shoes, keys or phone."
       }
     ],
     "places": [
       {
         "name": "Home",
-        "notes": "A terraced house a few streets from the sea.",
+        "notes": "A terraced house a few streets from the sea. Where Simon was last seen.",
         "status": "visited"
       }
     ]
@@ -171,22 +185,24 @@
     ]
   },
   "world": {
-    "location": "Home, the front step",
+    "location": "Home",
     "district": "South coast of England",
-    "time": "Just before eight in the evening",
+    "time": "About quarter past eight, the evening Simon vanished",
     "weather": "Sea fog rolling in",
     "companions": [
       {
         "name": "Saskee",
         "role": "Black cat",
         "icon": "🐈‍⬛",
-        "notes": "Friendly boy, a bit of a scaredy-cat. Adores Simon."
+        "notes": "Friendly boy, a bit of a scaredy-cat. Adores Simon.",
+        "status": "At the back door, staring at the garden wall"
       },
       {
         "name": "Suki",
         "role": "Black cat",
         "icon": "🐈‍⬛",
-        "notes": "Couldn't care less about anything. Adores Simon; Alice will do."
+        "notes": "Couldn't care less about anything. Adores Simon; Alice will do.",
+        "status": "At the back door, staring at the garden wall"
       }
     ]
   },
@@ -243,6 +259,6 @@
     ]
   },
   "player_notes": [],
-  "last_log": "Alice comes home through the fog with milk and cat treats. The house is very quiet.",
+  "last_log": "Every room is empty. Simon's tea is still warm, and something knocked in the loft.",
   "notes": ""
 }

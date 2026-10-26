@@ -4,7 +4,7 @@ Reference for the GM. The player may read this too; it holds no spoilers. Secret
 
 ## The two sides
 
-**The south coast.** Present-day England. Alice and Simon's terraced house, the accountancy firm, the sea front, the police who think Simon simply walked out. Ordinary, grey, a little too quiet now. Normal modern technology works here.
+**The south coast.** Present-day England. Alice and Simon's terraced house, the sea front, the police who think Simon simply walked out. Ordinary, grey, a little too quiet now. Normal modern technology works here.
 
 **Yūgure** (夕暮れ, "dusk"). The city on the other side of the door. It feels like a 1980s Japanese metropolis that never quite existed: glass and concrete towers, neon kanji signs stacked up their sides, elevated trains rattling between rooftops, narrow alleys of izakaya and pachinko parlours under strings of paper lanterns, canals reflecting all of it. It is nearly always dusk or night, and it rains often. Whether Yūgure is another world, another time or a pocket the two have made between them is a mystery the story can answer slowly, or never.
 

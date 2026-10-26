@@ -4,17 +4,17 @@
 
 Alice comes from a family of witches, or so her aunts always said. In their house the kettle sometimes boiled before anyone switched it on, and the cats were treated as if they understood every word. The family gift, her aunts promised, would wake on her nineteenth birthday, as it had for them.
 
-On her nineteenth birthday Alice blew out her candles and nothing happened. Nothing happened the next day, or the next year. Her aunts gave her their old spell book anyway, full of rhymes and recipes and warnings in the margins, and told her to be patient. Eventually Alice stopped waiting. She put the book in a box in the loft and got on with ordinary life, including a job at an accountancy firm on the south coast.
+On her nineteenth birthday Alice blew out her candles and nothing happened. Nothing happened the next day, or the next year. Her aunts gave her their old spell book anyway, full of rhymes and recipes and warnings in the margins, and told her to be patient. Eventually Alice stopped waiting. She put the book in a box in the loft and got on with ordinary life.
 
 ### Simon
 
-She met Simon at work. He's a software developer in his early forties at the same firm, and he has the patience of a man who debugs other people's code for a living. He laughs at her jokes, makes her tea without asking, and has never once minded sharing the bed with two black cats.
+Then she met Simon. He's a software developer by trade, in his early forties, with the patience of a man who debugs code for fun. He laughs at her jokes, makes her tea without asking, and has never once minded sharing the bed with two black cats.
 
 They live in a terraced house a few streets from the sea with **Saskee**, a friendly boy who wants to be everyone's friend but bolts under the bed at the doorbell, and **Suki**, an aloof madam who doesn't give a damn about anything she hasn't personally decided to care about. Both cats adore Simon above all things and consider Alice the spare: perfectly acceptable for meals and a warm lap, but no substitute for him.
 
 ### The night everything changed
 
-They both work from home, Alice at the kitchen table and Simon in the little study upstairs. Lately Simon had been shut in that study until all hours with a client's accounts, Hoshino Holdings. He said they didn't add up and wouldn't say more.
+Simon's evenings belong to the little study upstairs: PC games, half-finished personal projects, and whatever strange old program he's taking apart that week. Lately he'd been shut in there until all hours with something new he'd found, an odd piece of old software that he said was "doing things code shouldn't do". He wouldn't say more.
 
 Then one evening Alice came home to a quiet house. Simon's study light was on and his tea was still warm, but Simon was gone. No coat taken, no shoes, no phone. On his laptop, one line of characters she couldn't read repeated down the screen. In his coat pocket was a matchbook from a bar that doesn't exist, in a city that isn't on any map: **Bar Kurage, 3rd Canal Street, Yūgure**.
 

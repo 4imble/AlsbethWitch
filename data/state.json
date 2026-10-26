@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-26T14:36:19Z",
+  "updated_at": "2026-10-26T14:54:40Z",
   "character": {
     "name": "Alice",
-    "title": "Witch, newly woken",
-    "calling": "Late-blooming witch from the south coast",
+    "title": "Simon's wife",
+    "calling": "From the south coast",
     "origin": "A terraced house a few streets from the sea, on England's south coast",
-    "look": "Dark coat, sensible boots, sparks at her fingertips when she's upset"
+    "look": "Dark coat, sensible boots"
   },
   "resolve": {
     "current": 9,
@@ -14,52 +14,46 @@
   },
   "conditions": [],
   "witchlight": {
-    "current": 4,
-    "max": 4,
+    "current": 0,
+    "max": 0,
     "recovery": "A night's sleep, or a quiet hour with the cats"
   },
   "powers": [
     {
       "name": "Point and Wish",
       "kind": "power",
-      "status": "active",
-      "cost": "Free",
-      "description": "Point a finger and nudge the world a little: float a key across a room, flick a lock open, light a lamp, tidy a mess. Small things only, and they don't always land quite where she meant."
+      "status": "locked",
+      "description": "Sometimes, when she points at something, it seems to lean towards her finger."
     },
     {
       "name": "Rhyme Spells",
       "kind": "power",
-      "status": "active",
-      "cost": "1 witchlight",
-      "description": "Say a little rhyme and point, and it happens: a teacup turns into a mouse, a door that wasn't there is, a nosy stranger forgets what he saw. Bigger wishes need better rhymes, and magic takes the words very literally."
+      "status": "locked",
+      "description": "A rhyme from her aunts' book keeps turning up in her head, uninvited."
     },
     {
       "name": "Glamour",
       "kind": "power",
-      "status": "active",
-      "cost": "1 witchlight",
-      "description": "Change her look with a twirl: a new outfit, hair, face, even age, for a scene. Good for slipping into places Alice shouldn't be. It doesn't change her voice."
+      "status": "locked",
+      "description": "In shop windows, just for a moment, she sometimes catches a different face."
     },
     {
       "name": "Mirror Sight",
       "kind": "power",
-      "status": "active",
-      "cost": "1 witchlight",
-      "description": "Look into a reflection at a place (a mirror, a shop window, a puddle full of neon) and glimpse something that happened there within the last day. Clearer with something that belonged to the person she's looking for."
+      "status": "locked",
+      "description": "Mirrors sometimes seem to hold on to a moment a little too long."
     },
     {
       "name": "Touchstone",
       "kind": "power",
-      "status": "active",
-      "cost": "Free",
-      "description": "Hold an object and feel the strongest feeling left on it, and a flash of the last hand that held it."
+      "status": "locked",
+      "description": "Some things feel warm, or cold, as if someone has only just let go of them."
     },
     {
       "name": "Cat's Eyes",
       "kind": "bond",
-      "status": "active",
-      "cost": "1 witchlight",
-      "description": "Close her eyes and see, for a few minutes, through Saskee's or Suki's. The cats go where Alice can't, and they always find their way back to her."
+      "status": "locked",
+      "description": "The cats always seem to know exactly where she is. Perhaps she could know where they are."
     },
     {
       "name": "Witch's Sight",

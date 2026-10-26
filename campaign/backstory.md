@@ -14,7 +14,7 @@ They live in a terraced house a few streets from the sea with **Saskee**, a frie
 
 ### The night everything changed
 
-Simon's evenings belong to the little study upstairs: PC games, half-finished personal projects, and whatever strange old program he's taking apart that week. Lately he'd been shut in there until all hours with something new he'd found, an odd piece of old software that he said was "doing things code shouldn't do". He wouldn't say more.
+Simon's evenings belong to the little study upstairs: PC games and half-finished personal projects. But a few weeks ago, after a storm, he came back from a walk on the beach with an old paper lantern he'd found washed up in the shingle, dry as a bone, its paper printed with characters neither of them could read. He hung it in the study window. Since then he's slept badly. He said he kept hearing a woman singing in there late at night, and once, half joking, that the lantern had lit itself.
 
 Then one evening Alice came home to a quiet house. Simon's study light was on and his tea was still warm, but Simon was gone. No coat taken, no shoes, no phone. On his laptop, one line of characters she couldn't read repeated down the screen. In his coat pocket was a matchbook from a bar that doesn't exist, in a city that isn't on any map: **Bar Kurage, 3rd Canal Street, Yūgure**.
 

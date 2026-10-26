@@ -94,7 +94,7 @@ The case is the spine of the game. It must be fair, solvable and surprising.
 
 This file holds the secret truth. The player has agreed not to read it, and the sheet never shows it. On the first session, write it with:
 
-1. **The truth:** who took Simon, why him, how, and where he is now. Tie it to what's already established: the strange old software Simon had been taking apart in his study ("doing things code shouldn't do"), the lantern-shaped line on his laptop, Bar Kurage on 3rd Canal Street, and Simon's skills as a software developer (in an analogue city, a mind that thinks in systems and logic is rare and valuable).
+1. **The truth:** who took Simon, why him, how, and where he is now. Tie it to what's already established: the old paper lantern Simon found washed up on the beach and hung in his study (the singing at night, the lantern lighting itself), the lantern-shaped line on his laptop, and Bar Kurage on 3rd Canal Street. The heart of the mystery is supernatural (ghosts, spirits, old magic), not technology, business or money.
 2. **The culprit's plan and a clock:** what happens each day if Alice does nothing. Advance it as `case.day` rises, so time matters.
 3. **Suspects (4 to 6):** each with a motive, a secret, an alibi, and what they'd lie about. Exactly one truth; the others guilty of something else.
 4. **Clue map:** for each key conclusion Alice must reach, at least **three** clues in different places (people, objects, reflections, records, the cats). Never put a vital clue behind a single roll: if Alice looks in the right place in a sensible way, she finds the core clue. Rolls decide extra detail, time taken, and complications.

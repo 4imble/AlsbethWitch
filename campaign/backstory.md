@@ -8,13 +8,13 @@ On her nineteenth birthday Alice blew out her candles and nothing happened. Noth
 
 ### Simon
 
-She met Simon at work. He's a software engineer in his early forties at the same firm, and he has the patience of a man who debugs other people's code for a living. He laughs at her jokes, makes her tea without asking, and has never once minded sharing the bed with two black cats.
+She met Simon at work. He's a software developer in his early forties at the same firm, and he has the patience of a man who debugs other people's code for a living. He laughs at her jokes, makes her tea without asking, and has never once minded sharing the bed with two black cats.
 
 They live in a terraced house a few streets from the sea with **Saskee**, a friendly boy who wants to be everyone's friend but bolts under the bed at the doorbell, and **Suki**, an aloof madam who doesn't give a damn about anything she hasn't personally decided to care about. Both cats adore Simon above all things and consider Alice the spare: perfectly acceptable for meals and a warm lap, but no substitute for him.
 
 ### The night everything changed
 
-Lately Simon had been staying late at the office with a client's accounts, Hoshino Holdings. He said they didn't add up and wouldn't say more.
+They both work from home, Alice at the kitchen table and Simon in the little study upstairs. Lately Simon had been shut in that study until all hours with a client's accounts, Hoshino Holdings. He said they didn't add up and wouldn't say more.
 
 Then one evening Alice came home to a quiet house. Simon's study light was on and his tea was still warm, but Simon was gone. No coat taken, no shoes, no phone. On his laptop, one line of characters she couldn't read repeated down the screen. In his coat pocket was a matchbook from a bar that doesn't exist, in a city that isn't on any map: **Bar Kurage, 3rd Canal Street, Yūgure**.
 

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-26T14:29:24Z",
+  "updated_at": "2026-10-26T14:31:11Z",
   "character": {
     "name": "Alice",
     "title": "Witch, newly woken",
@@ -100,7 +100,8 @@
       "Where is Simon? He left without his coat, shoes, keys or phone.",
       "Where did the lantern come from, and who is singing?",
       "What does the line on Simon's laptop say?",
-      "What did Aunt Prue know about lanterns that come over the water?"
+      "What did Aunt Prue know about lanterns that come over the water?",
+      "Where is Bar Kurage, and why does Simon's coat have its matchbook?"
     ],
     "clues": [
       {
@@ -132,6 +133,12 @@
         "text": "Tucked in a box in the loft: 'If a lantern ever comes to your window over the water, it is not a gift, it is a summons. Don't let anyone answer it who isn't ready to go. Ring me.' Signed Prue, with a phone number.",
         "source": "Home: the loft",
         "status": "new"
+      },
+      {
+        "title": "A matchbook from nowhere",
+        "text": "In Simon's coat pocket: a matchbook printed with a glowing jellyfish and 'Bar Kurage, 3rd Canal Street, Yūgure'. Alice has never heard of the place, and Simon never smoked.",
+        "source": "Simon's coat",
+        "status": "new"
       }
     ],
     "people": [
@@ -155,6 +162,11 @@
         "name": "Home",
         "notes": "A terraced house a few streets from the sea. Where Simon was last seen.",
         "status": "visited"
+      },
+      {
+        "name": "Bar Kurage",
+        "notes": "3rd Canal Street, Yūgure, according to the matchbook.",
+        "status": "unvisited"
       }
     ]
   },
@@ -200,11 +212,12 @@
       }
     ],
     "keepsakes": [
-      "Her wedding ring"
+      "Her wedding ring",
+      "The matchbook from Bar Kurage"
     ]
   },
   "world": {
-    "location": "The back garden",
+    "location": "Home: the hallway",
     "district": "South coast of England",
     "time": "About half past eight",
     "weather": "Sea fog rolling in",
@@ -214,14 +227,14 @@
         "role": "Black cat",
         "icon": "🐈‍⬛",
         "notes": "Friendly boy, a bit of a scaredy-cat. Adores Simon.",
-        "status": "Inside the house, watching from the back door"
+        "status": "Watching from the kitchen doorway"
       },
       {
         "name": "Suki",
         "role": "Black cat",
         "icon": "🐈‍⬛",
         "notes": "Couldn't care less about anything. Adores Simon; Alice will do.",
-        "status": "Inside the house, watching from the back door"
+        "status": "Watching from the kitchen doorway"
       }
     ]
   },
@@ -278,6 +291,6 @@
     ]
   },
   "player_notes": [],
-  "last_log": "The garden is white with fog. Low on the wall, the ivy has parted around a line of light.",
+  "last_log": "Simon's coat pocket holds a matchbook from a bar that shouldn't exist. The garden door waits.",
   "notes": ""
 }

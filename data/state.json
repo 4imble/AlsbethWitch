@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-26T12:13:16Z",
+  "updated_at": "2026-10-26T12:16:08Z",
   "character": {
     "name": "Alice",
     "title": "Witch, newly woken",
@@ -96,23 +96,11 @@
   "case": {
     "title": "The disappearance of Simon",
     "day": 1,
-    "summary": "Simon, Alice's husband, has vanished from their home without a trace. His study light is on and his laptop is still running. The police would call it a man who walked out. Alice knows better.",
+    "summary": "Simon has been staying late at the office lately with a client's accounts, Hoshino Holdings. He says they don't add up, and won't say more.",
     "questions": [
-      "Who took Simon, and why him?"
+      "What doesn't add up in the Hoshino accounts?"
     ],
     "clues": [
-      {
-        "title": "Still-warm tea",
-        "text": "Simon's study: his chair pushed back, his tea still warm, his laptop open. Nothing taken, no sign of a struggle.",
-        "source": "Home",
-        "status": "new"
-      },
-      {
-        "title": "A line he never typed",
-        "text": "On Simon's laptop screen, one line of curling characters Alice can't read repeats from top to bottom.",
-        "source": "Simon's laptop",
-        "status": "new"
-      },
       {
         "title": "The Hoshino file",
         "text": "Simon had been staying late at the office with a client's accounts, Hoshino Holdings. He said they 'didn't add up' and wouldn't say more.",
@@ -124,15 +112,15 @@
       {
         "name": "Simon",
         "role": "Alice's husband, software engineer, early forties",
-        "stance": "missing",
+        "stance": "ally",
         "icon": "🧑‍💻",
-        "notes": "Gone from the house without his phone, keys or shoes."
+        "notes": "Working late on the Hoshino accounts most nights lately."
       }
     ],
     "places": [
       {
         "name": "Home",
-        "notes": "A terraced house near the sea. Where Simon was last seen.",
+        "notes": "A terraced house a few streets from the sea.",
         "status": "visited"
       }
     ]
@@ -178,24 +166,22 @@
     ]
   },
   "world": {
-    "location": "Home",
+    "location": "Home, the front step",
     "district": "South coast of England",
-    "time": "Just before eight, the evening Simon vanished",
+    "time": "Just before eight in the evening",
     "weather": "Sea fog rolling in",
     "companions": [
       {
         "name": "Saskee",
         "role": "Black cat",
         "icon": "🐈‍⬛",
-        "notes": "Bold and nosy. First through any open door.",
-        "status": "By the back door, staring at the garden wall"
+        "notes": "Bold and nosy. First through any open door."
       },
       {
         "name": "Suki",
         "role": "Black cat",
         "icon": "🐈‍⬛",
-        "notes": "Quiet and watchful. Notices everything, trusts no one.",
-        "status": "By the back door, staring at the garden wall"
+        "notes": "Quiet and watchful. Notices everything, trusts no one."
       }
     ]
   },
@@ -252,6 +238,6 @@
     ]
   },
   "player_notes": [],
-  "last_log": "The house is too quiet, and the kettle has just boiled on its own.",
+  "last_log": "Alice comes home through the fog. The house is very quiet.",
   "notes": ""
 }

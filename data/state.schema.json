@@ -1,0 +1,257 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://4imble.github.io/AlsbethWitch/data/state.schema.json",
+  "title": "Alice live game state",
+  "type": "object",
+  "required": ["schema_version", "updated_at", "character", "resolve", "witchlight", "powers", "case", "inventory", "world", "scene", "mechanics", "last_log"],
+  "additionalProperties": false,
+  "$defs": {
+    "timestamp": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}(:\\d{2})?Z$" },
+    "ability": { "enum": ["str", "dex", "con", "int", "wis", "cha"] },
+    "score": { "type": "integer", "minimum": 1, "maximum": 30 }
+  },
+  "properties": {
+    "schema_version": { "const": 1 },
+    "updated_at": { "$ref": "#/$defs/timestamp" },
+    "character": {
+      "type": "object",
+      "required": ["name"],
+      "additionalProperties": false,
+      "properties": {
+        "name": { "type": "string" },
+        "title": { "type": "string" },
+        "calling": { "type": "string" },
+        "origin": { "type": "string" },
+        "occupation": { "type": "string" },
+        "look": { "type": "string" }
+      }
+    },
+    "resolve": {
+      "type": "object",
+      "required": ["current", "max"],
+      "additionalProperties": false,
+      "properties": {
+        "current": { "type": "integer", "minimum": 0 },
+        "max": { "type": "integer", "minimum": 1 }
+      }
+    },
+    "conditions": { "type": "array", "items": { "type": "string" } },
+    "witchlight": {
+      "type": "object",
+      "required": ["current", "max"],
+      "additionalProperties": false,
+      "properties": {
+        "current": { "type": "integer", "minimum": 0 },
+        "max": { "type": "integer", "minimum": 0, "maximum": 12 },
+        "recovery": { "type": "string" }
+      }
+    },
+    "powers": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["name", "kind", "status", "description"],
+        "additionalProperties": false,
+        "properties": {
+          "name": { "type": "string" },
+          "kind": { "enum": ["power", "charm", "bond", "talent"] },
+          "status": { "enum": ["active", "locked"] },
+          "cost": { "type": "string" },
+          "description": { "type": "string" }
+        }
+      }
+    },
+    "case": {
+      "type": "object",
+      "required": ["title", "day"],
+      "additionalProperties": false,
+      "properties": {
+        "title": { "type": "string" },
+        "day": { "type": "integer", "minimum": 1 },
+        "summary": { "type": "string" },
+        "questions": { "type": "array", "items": { "type": "string" } },
+        "clues": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["title", "text", "status"],
+            "additionalProperties": false,
+            "properties": {
+              "title": { "type": "string" },
+              "text": { "type": "string" },
+              "source": { "type": "string" },
+              "status": { "enum": ["new", "following", "key", "dead end"] }
+            }
+          }
+        },
+        "people": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["name", "stance"],
+            "additionalProperties": false,
+            "properties": {
+              "name": { "type": "string" },
+              "role": { "type": "string" },
+              "stance": { "enum": ["missing", "ally", "contact", "neutral", "suspect", "hostile", "unknown"] },
+              "icon": { "type": "string" },
+              "notes": { "type": "string" }
+            }
+          }
+        },
+        "places": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["name", "status"],
+            "additionalProperties": false,
+            "properties": {
+              "name": { "type": "string" },
+              "notes": { "type": "string" },
+              "status": { "enum": ["unvisited", "visited", "done"] }
+            }
+          }
+        }
+      }
+    },
+    "inventory": {
+      "type": "object",
+      "required": ["items"],
+      "additionalProperties": false,
+      "properties": {
+        "money": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["label", "amount"],
+            "additionalProperties": false,
+            "properties": {
+              "label": { "type": "string" },
+              "amount": { "type": "string" },
+              "notes": { "type": "string" }
+            }
+          }
+        },
+        "items": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["name", "qty"],
+            "additionalProperties": false,
+            "properties": {
+              "name": { "type": "string" },
+              "qty": { "type": "integer", "minimum": 1 },
+              "notes": { "type": "string" }
+            }
+          }
+        },
+        "keepsakes": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "world": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "location": { "type": "string" },
+        "district": { "type": "string" },
+        "time": { "type": "string" },
+        "weather": { "type": "string" },
+        "companions": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["name"],
+            "additionalProperties": false,
+            "properties": {
+              "name": { "type": "string" },
+              "role": { "type": "string" },
+              "icon": { "type": "string" },
+              "notes": { "type": "string" },
+              "status": { "type": "string" },
+              "resolve_current": { "type": "integer", "minimum": 0 },
+              "resolve_max": { "type": "integer", "minimum": 1 },
+              "conditions": { "type": "array", "items": { "type": "string" } },
+              "away": { "type": "boolean" }
+            }
+          }
+        }
+      }
+    },
+    "scene": {
+      "type": "object",
+      "required": ["active"],
+      "additionalProperties": false,
+      "properties": {
+        "active": { "type": "boolean" },
+        "title": { "type": "string" },
+        "threats": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["name"],
+            "additionalProperties": false,
+            "properties": {
+              "name": { "type": "string" },
+              "status": { "type": "string" },
+              "notes": { "type": "string" }
+            }
+          }
+        },
+        "environment": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "mechanics": {
+      "type": "object",
+      "required": ["level", "proficiency_bonus", "defence", "abilities"],
+      "additionalProperties": false,
+      "properties": {
+        "level": { "type": "integer", "minimum": 1, "maximum": 20 },
+        "proficiency_bonus": { "type": "integer", "minimum": 2 },
+        "defence": { "type": "integer" },
+        "abilities": {
+          "type": "object",
+          "required": ["str", "dex", "con", "int", "wis", "cha"],
+          "additionalProperties": false,
+          "properties": {
+            "str": { "$ref": "#/$defs/score" },
+            "dex": { "$ref": "#/$defs/score" },
+            "con": { "$ref": "#/$defs/score" },
+            "int": { "$ref": "#/$defs/score" },
+            "wis": { "$ref": "#/$defs/score" },
+            "cha": { "$ref": "#/$defs/score" }
+          }
+        },
+        "save_proficiencies": { "type": "array", "items": { "$ref": "#/$defs/ability" }, "uniqueItems": true },
+        "skills": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["name", "ability", "proficiency"],
+            "additionalProperties": false,
+            "properties": {
+              "name": { "type": "string" },
+              "ability": { "$ref": "#/$defs/ability" },
+              "proficiency": { "enum": ["proficient", "expertise"] }
+            }
+          }
+        }
+      }
+    },
+    "player_notes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["title", "text"],
+        "additionalProperties": false,
+        "properties": {
+          "title": { "type": "string" },
+          "text": { "type": "string" },
+          "group": { "type": "string" },
+          "at": { "$ref": "#/$defs/timestamp" }
+        }
+      }
+    },
+    "last_log": { "type": "string" },
+    "notes": { "type": "string" }
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-10-26T12:00:00Z",
+  "character": {
+    "name": "Alice",
+    "title": "Witch, newly woken",
+    "calling": "Late-blooming witch from the south coast",
+    "origin": "A terraced house a few streets from the sea, on England's south coast",
+    "occupation": "Accountant (works at the same firm as Simon)",
+    "look": "Dark coat, sensible boots, sparks at her fingertips when she's upset"
+  },
+  "resolve": {
+    "current": 9,
+    "max": 9
+  },
+  "conditions": [],
+  "witchlight": {
+    "current": 4,
+    "max": 4,
+    "recovery": "A night's sleep, or a quiet hour with the cats"
+  },
+  "powers": [
+    {
+      "name": "Point and Wish",
+      "kind": "power",
+      "status": "active",
+      "cost": "Free",
+      "description": "Point a finger and nudge the world a little: float a key across a room, flick a lock open, light a lamp, tidy a mess. Small things only, and they don't always land quite where she meant."
+    },
+    {
+      "name": "Rhyme Spells",
+      "kind": "power",
+      "status": "active",
+      "cost": "1 witchlight",
+      "description": "Say a little rhyme and point, and it happens: a teacup turns into a mouse, a door that wasn't there is, a nosy stranger forgets what he saw. Bigger wishes need better rhymes, and magic takes the words very literally."
+    },
+    {
+      "name": "Glamour",
+      "kind": "power",
+      "status": "active",
+      "cost": "1 witchlight",
+      "description": "Change her look with a twirl: a new outfit, hair, face, even age, for a scene. Good for slipping into places Alice shouldn't be. It doesn't change her voice."
+    },
+    {
+      "name": "Mirror Sight",
+      "kind": "power",
+      "status": "active",
+      "cost": "1 witchlight",
+      "description": "Look into a reflection at a place (a mirror, a shop window, a puddle full of neon) and glimpse something that happened there within the last day. Clearer with something that belonged to the person she's looking for."
+    },
+    {
+      "name": "Touchstone",
+      "kind": "power",
+      "status": "active",
+      "cost": "Free",
+      "description": "Hold an object and feel the strongest feeling left on it, and a flash of the last hand that held it."
+    },
+    {
+      "name": "Cat's Eyes",
+      "kind": "bond",
+      "status": "active",
+      "cost": "1 witchlight",
+      "description": "Close her eyes and see, for a few minutes, through Saskee's or Suki's. The cats go where Alice can't, and they always find their way back to her."
+    },
+    {
+      "name": "Witch's Sight",
+      "kind": "talent",
+      "status": "active",
+      "description": "Since the night Simon vanished, Alice notices what's hidden by magic: glamours, wards, and doors other people walk straight past."
+    },
+    {
+      "name": "Ledger Mind",
+      "kind": "talent",
+      "status": "active",
+      "description": "Years of balancing other people's books. When numbers, times or stories don't add up, Alice feels it before she can say why."
+    },
+    {
+      "name": "Stop the clock",
+      "kind": "power",
+      "status": "locked",
+      "description": "Once, when a glass slipped from her hand, it hung in the air for a heartbeat before it fell."
+    },
+    {
+      "name": "Cats who talk back",
+      "kind": "bond",
+      "status": "locked",
+      "description": "Lately Suki looks at her as if she has a great deal to say."
+    },
+    {
+      "name": "The name that answers",
+      "kind": "power",
+      "status": "locked",
+      "description": "Something stirs whenever a stranger says Simon's name."
+    }
+  ],
+  "case": {
+    "title": "The disappearance of Simon",
+    "day": 1,
+    "summary": "Simon, Alice's husband, has vanished from their home without a trace. The police see a man in his forties who walked out. Alice knows better.",
+    "questions": [
+      "Who took Simon, and why him?",
+      "Where is Bar Kurage, and why can't anyone find it on a map?"
+    ],
+    "clues": [
+      {
+        "title": "Still-warm tea",
+        "text": "Simon's study: his chair pushed back, his tea still warm, his laptop open. Nothing taken, no sign of a struggle.",
+        "source": "Home",
+        "status": "new"
+      },
+      {
+        "title": "A line he never typed",
+        "text": "On Simon's screen, one line repeats down the page in characters Alice can't read. Shaped together, they look like a lantern.",
+        "source": "Simon's laptop",
+        "status": "new"
+      },
+      {
+        "title": "A matchbook from nowhere",
+        "text": "In Simon's coat pocket: a matchbook printed with a jellyfish and 'Bar Kurage, 3rd Canal Street, Yūgure'. No such place exists.",
+        "source": "Simon's coat",
+        "status": "new"
+      },
+      {
+        "title": "The Hoshino file",
+        "text": "Simon had been staying late at the office with a client's accounts, Hoshino Holdings. He said they 'didn't add up' and wouldn't say more.",
+        "source": "Work",
+        "status": "new"
+      }
+    ],
+    "people": [
+      {
+        "name": "Simon",
+        "role": "Alice's husband, software engineer, early forties",
+        "stance": "missing",
+        "icon": "🧑‍💻",
+        "notes": "Gone from the house without his phone, keys or shoes."
+      }
+    ],
+    "places": [
+      {
+        "name": "Home",
+        "notes": "A terraced house near the sea. Where Simon was last seen.",
+        "status": "visited"
+      },
+      {
+        "name": "Bar Kurage",
+        "notes": "3rd Canal Street, Yūgure, according to the matchbook.",
+        "status": "unvisited"
+      }
+    ]
+  },
+  "inventory": {
+    "money": [
+      {
+        "label": "Pounds sterling",
+        "amount": "£46.20"
+      }
+    ],
+    "items": [
+      {
+        "name": "Hand mirror",
+        "qty": 1,
+        "notes": "Her grandmother's, silver-backed. Her favourite for Mirror Sight."
+      },
+      {
+        "name": "Simon's reading glasses",
+        "qty": 1,
+        "notes": "Something of his to hold when she looks for him."
+      },
+      {
+        "name": "Her aunts' spell book",
+        "qty": 1,
+        "notes": "Given to her at 19 for the powers that never came. Mostly rhymes, recipes and warnings in the margins."
+      },
+      {
+        "name": "Notebook and pencil",
+        "qty": 1
+      },
+      {
+        "name": "Pocket torch",
+        "qty": 1
+      },
+      {
+        "name": "Bag of cat treats",
+        "qty": 1
+      }
+    ],
+    "keepsakes": [
+      "Her wedding ring",
+      "The matchbook from Bar Kurage"
+    ]
+  },
+  "world": {
+    "location": "Home",
+    "district": "South coast of England",
+    "time": "Evening, the day Simon vanished",
+    "weather": "Sea fog rolling in",
+    "companions": [
+      {
+        "name": "Saskee",
+        "role": "Black cat",
+        "icon": "🐈‍⬛",
+        "notes": "Bold and nosy. First through any open door."
+      },
+      {
+        "name": "Suki",
+        "role": "Black cat",
+        "icon": "🐈‍⬛",
+        "notes": "Quiet and watchful. Notices everything, trusts no one."
+      }
+    ]
+  },
+  "scene": {
+    "active": false
+  },
+  "mechanics": {
+    "level": 1,
+    "proficiency_bonus": 2,
+    "defence": 11,
+    "abilities": {
+      "str": 8,
+      "dex": 12,
+      "con": 12,
+      "int": 14,
+      "wis": 16,
+      "cha": 13
+    },
+    "save_proficiencies": [
+      "int",
+      "wis"
+    ],
+    "skills": [
+      {
+        "name": "Investigation",
+        "ability": "int",
+        "proficiency": "expertise"
+      },
+      {
+        "name": "Insight",
+        "ability": "wis",
+        "proficiency": "proficient"
+      },
+      {
+        "name": "Perception",
+        "ability": "wis",
+        "proficiency": "proficient"
+      },
+      {
+        "name": "Arcana",
+        "ability": "int",
+        "proficiency": "proficient"
+      },
+      {
+        "name": "Animal Handling",
+        "ability": "wis",
+        "proficiency": "proficient"
+      },
+      {
+        "name": "Persuasion",
+        "ability": "cha",
+        "proficiency": "proficient"
+      }
+    ]
+  },
+  "player_notes": [],
+  "last_log": "Simon is gone. His tea is still warm.",
+  "notes": ""
+}

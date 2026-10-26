@@ -8,9 +8,9 @@ GM eyes only. The player has agreed not to read this. Never show it, quote it, o
 
 **Why Yūgure needs a programmer.** Yūgure stays at dusk because its lanterns burn. Every lantern in the city is lit and timed by the **Tōrō Engine**, a vast relay-and-punch-card machine in a hall beneath Hoshino Tower in Kōgai Heights, built sixty years ago by an engineer nobody remembers. Hoshino Holdings holds the contract to run it. The Engine is failing: in the outer districts lanterns are going out, and the dark that comes in takes people with it ("going unlit"). Nobody in Yūgure can read the Engine's logic. A mind that thinks in loops, conditions and state machines is almost unheard of there.
 
-**Why Simon.** Hoshino has a front company on the south coast, **Hoshino Trading Ltd**, that buys relays, valves and old electronics and ships them "abroad" (through Sayo's mirrors). Simon's firm handles its accounts. Kenji's hidden maintenance spending on the Engine runs through it, so the accounts don't add up. Simon noticed something stranger: the odd figures weren't random. Read as a program, they were the Engine's own timing tables, copied into the books by a clerk who didn't know what they were. Simon started decoding them on his laptop, late at night in his study at home (he and Alice both work from home). Sayo, watching the reflections in his laptop screen, saw a man reading the Engine like a book. She decided she wanted him.
+**Why Simon.** Sayo needs someone who can read the Engine. She copied a fragment of its lantern-timing code onto an old 5¼-inch floppy and disguised it as an unfinished 1980s Japanese computer game: **"TŌRŌ: Lanterns of Yūgure"**, label printed "Hoshino Soft 1986", with a little lantern logo. She stepped out of the old pier-glass mirror in **Harbour Lights Curios**, a seaside junk shop, and left it in a box of retro computer bits, where a man like Simon would find it. He bought the box three weeks ago and has been taking the program apart in his study ever since, running it in an emulator. On the surface it's a slow, eerie little adventure: a pixel city at dusk, rain, lanterns, a bar with a jellyfish sign. Underneath, it's a controller, not a game, and it does things code shouldn't: its in-game clock matches real sunset, the house lamps flicker when it runs, and its "save file" changes overnight when nobody touched it. Sayo, watching through the reflection in his laptop screen, saw a man reading the Engine like a book. She decided she wanted him.
 
-**How.** Sayo wrote a lantern-door sigil (bought from Kitsune Jun in the Lantern Market) into the program Simon was decoding. When Simon ran his decoder, the sigil printed down his screen: the "lantern" line. A lantern-door needs a token on the far side: she had slipped a Bar Kurage matchbook into his coat pocket a week earlier, stepping out of the hallway mirror at home while the house slept. The light of the screen and the token together opened a door, and Simon walked through it, dazed, in his socks, mid-sip of tea. He arrived in the back-room mirror of **Bar Kurage**, 3rd Canal Street, at about 7:40 p.m. Two of Sayo's men in grey raincoats were waiting and took him to Hoshino Tower by boat along the canal.
+**How.** The game has a locked last chapter that never loads. Sayo built that lock as the trap: a lantern-door sigil (bought from Kitsune Jun in the Lantern Market) hidden in the code, which fires when someone clever enough patches the bug. A lantern-door also needs a token on this side: a week ago she slipped a Bar Kurage matchbook into his coat pocket, stepping out of the hallway mirror at home while the house slept. Tonight Simon fixed the bug. The sigil printed down his screen (the "lantern" line), the screen's light and the token together opened a door, and Simon walked into it, dazed, in his socks, mid-sip of tea. He arrived in the back-room mirror of **Bar Kurage**, 3rd Canal Street, at about 7:40 p.m. Two of Sayo's men in grey raincoats were waiting and took him to Hoshino Tower by boat along the canal.
 
 **Where he is now.** A locked workshop in the **Engine hall beneath Hoshino Tower**, Kōgai Heights. Fed, warm, unhurt, and under a **forgetting glamour** that thickens each day so he'll stop wanting to go home. He's been told he's a contractor who has always lived here. Part of him knows better: he is hiding messages in the lantern patterns he's asked to program. Over Third Canal, a row of lanterns blinks in binary at midnight. (Day 2: `ALICE`. Day 3: `UNDER`. Day 4: `TOWER`. Day 5: `CATS?` Then they stop.)
 
@@ -36,7 +36,7 @@ Advance with `case.day`. Pace it to the story; if Alice is moving well, the cloc
 
 **Kagami Sayo** (the truth). Hoshino's house witch. Elegant, cool, always carries a silver compact mirror; a thin silver ring on her left thumb. Motive: power, and revenge on the Lantern Market witches. Secret: she took Simon and means to take the city. Alibi: "At the Hoshino board dinner at the Tsuru Hotel all evening." Half true: she left the private dining room for "about two hours" and stepped through the powder-room mirror. Lies about: ever having been to the other side; knowing what the Engine needs; knowing Simon's name.
 
-**Hoshino Kenji.** Director of Hoshino Holdings, sixties, tired, decent in a cowardly way. Motive (apparent): the Hoshino accounts, the man who noticed them. Secret: he's hiding that the Engine is failing and people in the outer districts are going unlit; he's paying hush money and cooking the books. Alibi: the board dinner, solid. Lies about: the Engine, the outer districts, the money. Genuinely doesn't know about Simon; Insight shows real confusion. Once he learns what Sayo is doing, he can become an ally (access, blueprints, keys).
+**Hoshino Kenji.** Director of Hoshino Holdings, sixties, tired, decent in a cowardly way. Motive (apparent): his company's name is on Simon's disk. Secret: he's hiding that the Engine is failing and people in the outer districts are going unlit, and he pays to keep it quiet. ("Hoshino Soft" was a real Hoshino toy-and-games arm decades ago; Sayo borrowed the old label.) Alibi: the board dinner, solid. Lies about: the Engine, the outer districts. Genuinely doesn't know about Simon; Insight shows real confusion. Once he learns what Sayo is doing, he can become an ally (access, blueprints, keys).
 
 **Ume, "Mama" of Bar Kurage.** Old woman behind the bar, jellyfish tattoo on her wrist, sings badly to city pop. A retired witch; she once knew Alice's aunts (she'll recognise the family face). Secret: she saw Simon come through the mirror and the men take him, and took Sayo's money to stay quiet because she's afraid of her. Alibi: in the bar all night (true). Lies about: having seen anyone come through. Crack her with kindness, the aunts, or the cats, not threats.
 
@@ -44,7 +44,7 @@ Advance with `case.day`. Pace it to the story; if Alice is moving well, the cloc
 
 **Kitsune Jun.** Fox-masked fixer in the Lantern Market, sells charms, sigils and information. Motive (apparent): he sold the sigil. Secret: yes he did, to "a woman with a mirror for a face" (she spoke to him through a compact), and he knows it was a door-sigil. Alibi: at his stall. Lies about: the buyer, at first; and from Day 3 he's paid to point Alice to Shirokane. Loves a trade; respects a clever witch.
 
-**Graham Pell** (south coast). Simon's manager, who signs off the Hoshino Trading account. Nervous, sweaty, deletes emails. Secret: takes kickbacks from Hoshino Trading to sign accounts without questions. Lies about: how much he knew Simon was worried. Knows nothing about Yūgure, but he has the Hoshino Trading paperwork (a Yūgure address that makes no sense: "Hoshino Tower, Kōgai Heights").
+**Bernard Quill** (south coast). Owner of Harbour Lights Curios, the junk shop on the seafront where Simon bought the box. Sixties, cardigan, smells of pipe smoke and brass polish, jumpy. Motive (apparent): he sold Simon the disk and lies about it. Secret: he fences the odd stolen bit and bob, so he never asks where stock comes from; and he's frightened, because one night he saw a woman in grey step *out* of his old pier-glass mirror and leave a box on the counter. He's told himself he dreamed it. Alibi: shut the shop at six, at the pub after (true). Lies about: where the box came from ("house clearance"), and the mirror.
 
 ## 4. Clue map
 
@@ -58,10 +58,10 @@ Each conclusion has at least three routes. Looking in the right place sensibly f
 - The hallway mirror at home: Witch's Sight shows a faint fingerprint of frost in one corner that never melts (Sayo's way in).
 - Neighbour Mrs Doreen Hart: saw the study window "light up like a lantern" around twenty to eight, and no one leave by the front.
 
-**B. Hoshino Holdings is real, in Yūgure, and the accounts are a program.**
-- Simon's study: printouts of Hoshino Trading figures with columns circled and "these are TIMINGS not costs??" in his hand, and a notepad converting numbers to binary.
-- Sharp Eye on the printouts: the amounts repeat in a 60-step cycle, like a clock.
-- Graham Pell's paperwork: Hoshino Trading's parent company address is "Hoshino Tower, Kōgai Heights, Yūgure."
+**B. The program is a piece of Yūgure, and "Hoshino" is the name behind it.**
+- Simon's study: the floppy disk in its sleeve ("TŌRŌ: Lanterns of Yūgure", "Hoshino Soft 1986", lantern logo), and his notebook: "NOT a game. It's a controller. 60-step cycle, like a clock. Controlling WHAT??" and "the bar sign is a jellyfish, same as the matchbook?"
+- Running the program on the laptop: a pixel city at dusk, rain, a street sign for 3rd Canal Street and the Bar Kurage jellyfish. Sharp Eye: the lantern timings repeat in a 60-step cycle; Witch's Sight: the screen feels like a window, not a picture. (It may flicker the house lamps. Spooky, harmless.)
+- Harbour Lights Curios: Simon's receipt is in the disk sleeve; Bernard Quill, and the pier-glass mirror with frost in its corner (Witch's Sight).
 - In Yūgure: Hoshino Tower dominates Kōgai Heights; "Hoshino lights the lanterns" is common knowledge.
 
 **C. The kidnapper is a mirror-witch.**
@@ -69,7 +69,8 @@ Each conclusion has at least three routes. Looking in the right place sensibly f
 - Bar Kurage's back-room mirror has a thin rime of frost on it that never melts; Witch's Sight shows a door.
 - Ume, once she talks: "She came out of my mirror like stepping out of a bath."
 - Jun: "A woman with a mirror for a face."
-- Touchstone on the matchbook: thumb ring, silver (C ↔ D link).
+- Touchstone on the matchbook or the floppy disk: a woman's cold hand, a silver thumb ring (C ↔ D link).
+- Bernard Quill, once he admits it: a woman in grey stepped out of his mirror.
 
 **D. It's Sayo, not Kenji.**
 - Kenji's real confusion under questioning; his panic is about the Engine.
@@ -79,7 +80,8 @@ Each conclusion has at least three routes. Looking in the right place sensibly f
 - Sayo's apartment (top of Hoshino Tower): Engine schematics with every lantern of the Lantern Market circled in red.
 
 **E. Simon is under Hoshino Tower, in the Engine hall.**
-- The midnight lanterns over Third Canal, read as binary (Sharp Eye; Simon's binary notepad from home helps).
+- The midnight lanterns over Third Canal, read as binary (Sharp Eye; Simon's notebook from home has a binary table scribbled in it).
+- The program on the laptop, if Alice keeps it running: its pixel lanterns mirror the real ones, and Simon's hidden messages show up in it too.
 - Kenji's blueprints of the Engine hall, or Kenji himself.
 - Jun knows the old service tunnel from the San-bori boathouses to the Tower's basement.
 - Cat's Eyes: a cat can get in through the lantern-oil vents and see Simon.
@@ -87,7 +89,7 @@ Each conclusion has at least three routes. Looking in the right place sensibly f
 
 ## 5. Red herrings
 
-1. **Graham Pell's guilty behaviour.** Honest explanation: kickbacks for signing off Hoshino Trading's accounts. He's a small crook, not a kidnapper.
+1. **Bernard Quill's guilty behaviour.** Honest explanation: he fences stolen odds and ends and is scared of what he saw in his mirror. A small crook, not a kidnapper.
 2. **Inspector Tachibana warning Alice off.** He protects Hoshino's cover-up of the unlit districts. He thinks Alice is a journalist.
 3. **The "unlit" disappearances in the outer districts.** Real and sinister, but caused by the failing Engine, not by a kidnapper. Kenji hides them out of fear and money. (They matter to the finale: fix the Engine properly and the dark goes away.)
 4. **Shirokane Arcade lead** (Day 3+, Jun's paid lie): a gangster's karaoke box where a "foreign engineer" works. He's a local radio repairman named Simon Tanabe.
@@ -95,11 +97,11 @@ Each conclusion has at least three routes. Looking in the right place sensibly f
 ## 6. Places and NPCs
 
 **South coast**
-- **Home.** Terraced house near the sea. The study: Simon's laptop, printouts, notepad, his tea in his unchipped green frog mug. The loft: a box with Alice's old things and the aunts' spell book (it's in her satchel already, but the box holds an aunt's letter). The garden wall: the door.
+- **Home.** Terraced house near the sea. The study: Simon's laptop running the program, the floppy disk and sleeve, his notebook, a gaming PC with a half-built model on the shelf, his tea in his unchipped green frog mug. The loft: a box with Alice's old things and the aunts' spell book (it's in her satchel already, but the box holds an aunt's letter). The garden wall: the door.
 - **Mrs Doreen Hart.** Next door, seventies, nosy, kind, feeds the cats biscuits she shouldn't.
 - **PC Dawson.** Local police on the phone; polite, unhurried, thinks Simon walked out.
 - **Aunt Prue.** Alice's surviving aunt, Cornwall, answers the phone after nine rings. Knows more than she ever said. ("So it's come, then.")
-- **Graham Pell.** See suspects.
+- **Harbour Lights Curios.** Seafront junk shop, ships in bottles, a tall pier-glass mirror in the back. Bernard Quill (see suspects).
 
 **Yūgure**
 - **Bar Kurage**, 3rd Canal Street, San-bori. A boathouse bar under the elevated line; glowing jellyfish in a tank behind the bottles; the back-room mirror is where the door comes out. Ume runs it.
@@ -123,3 +125,4 @@ The player loves the supernatural: ghosts and spooky beats are welcome in every 
 - 2026-10-26: Case file written at the start of the first session.
 - 2026-10-26: Added ghosts and uncanny NPCs (player loves the supernatural). No revealed clues affected.
 - 2026-10-26: Alice and Simon work from home; Simon is a software developer. Sayo planted the matchbook via the hallway mirror. No revealed clues affected.
+- 2026-10-26: Removed work and accounts entirely. Simon's hook is now a disk of old software ("TŌRŌ: Lanterns of Yūgure") that Sayo seeded in a seaside junk shop; Graham Pell replaced by Bernard Quill of Harbour Lights Curios. Nothing revealed to Alice was affected.

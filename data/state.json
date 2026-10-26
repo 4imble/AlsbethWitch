@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-26T12:01:20Z",
+  "updated_at": "2026-10-26T12:13:16Z",
   "character": {
     "name": "Alice",
     "title": "Witch, newly woken",
@@ -96,10 +96,9 @@
   "case": {
     "title": "The disappearance of Simon",
     "day": 1,
-    "summary": "Simon, Alice's husband, has vanished from their home without a trace. The police see a man in his forties who walked out. Alice knows better.",
+    "summary": "Simon, Alice's husband, has vanished from their home without a trace. His study light is on and his laptop is still running. The police would call it a man who walked out. Alice knows better.",
     "questions": [
-      "Who took Simon, and why him?",
-      "Where is Bar Kurage, and why can't anyone find it on a map?"
+      "Who took Simon, and why him?"
     ],
     "clues": [
       {
@@ -110,14 +109,8 @@
       },
       {
         "title": "A line he never typed",
-        "text": "On Simon's screen, one line repeats down the page in characters Alice can't read. Shaped together, they look like a lantern.",
+        "text": "On Simon's laptop screen, one line of curling characters Alice can't read repeats from top to bottom.",
         "source": "Simon's laptop",
-        "status": "new"
-      },
-      {
-        "title": "A matchbook from nowhere",
-        "text": "In Simon's coat pocket: a matchbook printed with a jellyfish and 'Bar Kurage, 3rd Canal Street, Yūgure'. No such place exists.",
-        "source": "Simon's coat",
         "status": "new"
       },
       {
@@ -141,11 +134,6 @@
         "name": "Home",
         "notes": "A terraced house near the sea. Where Simon was last seen.",
         "status": "visited"
-      },
-      {
-        "name": "Bar Kurage",
-        "notes": "3rd Canal Street, Yūgure, according to the matchbook.",
-        "status": "unvisited"
       }
     ]
   },
@@ -186,8 +174,7 @@
       }
     ],
     "keepsakes": [
-      "Her wedding ring",
-      "The matchbook from Bar Kurage"
+      "Her wedding ring"
     ]
   },
   "world": {

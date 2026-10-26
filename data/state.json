@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-26T14:31:11Z",
+  "updated_at": "2026-10-26T14:33:59Z",
   "character": {
     "name": "Alice",
     "title": "Witch, newly woken",
@@ -101,7 +101,8 @@
       "Where did the lantern come from, and who is singing?",
       "What does the line on Simon's laptop say?",
       "What did Aunt Prue know about lanterns that come over the water?",
-      "Where is Bar Kurage, and why does Simon's coat have its matchbook?"
+      "Where is Bar Kurage, and why does Simon's coat have its matchbook?",
+      "Why is the lantern singing Simon's name?"
     ],
     "clues": [
       {
@@ -139,6 +140,12 @@
         "text": "In Simon's coat pocket: a matchbook printed with a glowing jellyfish and 'Bar Kurage, 3rd Canal Street, Yūgure'. Alice has never heard of the place, and Simon never smoked.",
         "source": "Simon's coat",
         "status": "new"
+      },
+      {
+        "title": "Simon's phone",
+        "text": "His passcode is Alice's birthday. Nothing to hide in his messages. His searches and notes show weeks of trying to explain the lantern: a photo of a star-in-a-circle mark on its base, 'sleep paralysis singing', 'paper lantern writing'. A note from 4 a.m.: the woman sings the same few lines and 'sounds like she's waiting'. At 7:36 tonight he started a text to Alice and never sent it: 'I think I know what she's singing. It's my name.'",
+        "source": "Simon's phone",
+        "status": "key"
       }
     ],
     "people": [
@@ -291,6 +298,6 @@
     ]
   },
   "player_notes": [],
-  "last_log": "Simon's coat pocket holds a matchbook from a bar that shouldn't exist. The garden door waits.",
+  "last_log": "Simon's phone holds no secrets, only an unsent text: 'I think I know what she's singing. It's my name.'",
   "notes": ""
 }

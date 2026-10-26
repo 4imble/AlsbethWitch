@@ -108,6 +108,16 @@ Each conclusion has at least three routes. Looking in the right place sensibly f
 - **The Old Shrine Hill.** A shrine to the lantern-kami; the priest, **Old Hamada**, remembers the Engine's builder and knows the lanterns are older than the machine.
 - **The outer districts** (e.g. **Kurayami-chō**). Streets where the lanterns flicker; shuttered doors; people leave tea out for neighbours who went unlit.
 
+## 6b. Ghosts and the uncanny
+
+The player loves the supernatural: ghosts and spooky beats are welcome in every chapter (atmosphere, not gore).
+- **The unlit.** People taken by the dark in the outer districts aren't dead: they linger as pale lantern-ghosts, walking their old routes, knocking at their own doors. They can be spoken to with patience and remember fragments. One of them, **Mrs Endō** of Kurayami-chō, saw grey raincoats carrying a man in socks along the canal (extra route to A/C/E).
+- **The builder's ghost.** **Kuroda Isamu**, who built the Tōrō Engine, still haunts the Engine hall, tapping relays. He's fond of Simon ("the first one who understands her") and hates Sayo. A route into E, and help in the finale if Alice earns his trust.
+- **Bar Kurage's drowned piano player**, a quiet ghost who plays one song at 2 a.m. and saw everything that came through the mirror (extra route to C).
+- **South coast:** the house has an old, harmless presence in the loft (a great-grandmother witch? the aunts would know) that knocks when Alice is near something important. Use it to nudge toward the spell book box and the aunt's letter.
+- Ghosts never threaten the cats; the cats can see ghosts and find them unimpressive.
+
 ## 7. Revisions
 
 - 2026-10-26: Case file written at the start of the first session.
+- 2026-10-26: Added ghosts and uncanny NPCs (player loves the supernatural). No revealed clues affected.

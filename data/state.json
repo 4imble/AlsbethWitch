@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-26T14:33:59Z",
+  "updated_at": "2026-10-26T14:36:19Z",
   "character": {
     "name": "Alice",
     "title": "Witch, newly woken",
@@ -216,6 +216,11 @@
         "name": "Mobile phone",
         "qty": 1,
         "notes": "Aunt Prue's number saved in it."
+      },
+      {
+        "name": "Cricket bat",
+        "qty": 1,
+        "notes": "Simon's, from the cupboard under the stairs. Lightly chewed by a cat."
       }
     ],
     "keepsakes": [
@@ -224,9 +229,9 @@
     ]
   },
   "world": {
-    "location": "Home: the hallway",
+    "location": "The back garden, at the door in the wall",
     "district": "South coast of England",
-    "time": "About half past eight",
+    "time": "About twenty to nine",
     "weather": "Sea fog rolling in",
     "companions": [
       {
@@ -234,14 +239,14 @@
         "role": "Black cat",
         "icon": "🐈‍⬛",
         "notes": "Friendly boy, a bit of a scaredy-cat. Adores Simon.",
-        "status": "Watching from the kitchen doorway"
+        "status": "Inside, watching from the back door"
       },
       {
         "name": "Suki",
         "role": "Black cat",
         "icon": "🐈‍⬛",
         "notes": "Couldn't care less about anything. Adores Simon; Alice will do.",
-        "status": "Watching from the kitchen doorway"
+        "status": "Inside, watching from the back door"
       }
     ]
   },
@@ -298,6 +303,6 @@
     ]
   },
   "player_notes": [],
-  "last_log": "Simon's phone holds no secrets, only an unsent text: 'I think I know what she's singing. It's my name.'",
+  "last_log": "Bat in hand and sparks at her fingertips, Alice stands before the open door and the rain beyond it.",
   "notes": ""
 }

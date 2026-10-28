@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-28T18:34:52Z",
+  "updated_at": "2026-10-28T18:36:51Z",
   "character": {
     "name": "Alice",
     "title": "Simon's wife",
@@ -235,9 +235,9 @@
     ]
   },
   "world": {
-    "location": "Home: the hallway",
+    "location": "Home: the kitchen",
     "district": "South coast of England",
-    "time": "About nine in the evening",
+    "time": "About ten past nine",
     "weather": "Sea fog rolling in",
     "companions": [
       {
@@ -245,14 +245,14 @@
         "role": "Black cat",
         "icon": "🐈‍⬛",
         "notes": "Friendly boy, a bit of a scaredy-cat. Adores Simon.",
-        "status": "Inside, watching from the back door"
+        "status": "Fed, and sitting by the back door"
       },
       {
         "name": "Suki",
         "role": "Black cat",
         "icon": "🐈‍⬛",
         "notes": "Couldn't care less about anything. Adores Simon; Alice will do.",
-        "status": "Inside, watching from the back door"
+        "status": "Fed, and sitting by the back door"
       }
     ]
   },
@@ -309,6 +309,6 @@
     ]
   },
   "player_notes": [],
-  "last_log": "Prue's number rings out, and the house lights fail, one by one. The garden door is still open.",
+  "last_log": "The cats are fed. Both of them are sitting at the back door, looking at the light on the garden wall.",
   "notes": ""
 }

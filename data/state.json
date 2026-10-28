@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-28T18:41:02Z",
+  "updated_at": "2026-10-28T18:45:44Z",
   "character": {
     "name": "Alice",
     "title": "Simon's wife",
@@ -205,6 +205,11 @@
         "name": "The Old Shrine Hill",
         "notes": "Where Oharu says the lantern road should have taken Simon, in Yūgure.",
         "status": "unvisited"
+      },
+      {
+        "name": "Yūgure",
+        "notes": "The city on the other side of the garden door. A back alley, rain, neon, a long way from the south coast.",
+        "status": "visited"
       }
     ]
   },
@@ -252,6 +257,11 @@
         "name": "Cricket bat",
         "qty": 1,
         "notes": "Simon's, from the cupboard under the stairs. Lightly chewed by a cat."
+      },
+      {
+        "name": "The beach lantern",
+        "qty": 1,
+        "notes": "Simon's lantern from the beach. Oharu goes wherever it goes. Keep it lit and level."
       }
     ],
     "keepsakes": [
@@ -260,24 +270,31 @@
     ]
   },
   "world": {
-    "location": "Home: Simon's study",
-    "district": "South coast of England",
-    "time": "Twenty past nine",
-    "weather": "Sea fog rolling in",
+    "location": "A back alley in Yūgure",
+    "district": "Third Canal, Yūgure",
+    "time": "Dusk",
+    "weather": "Steady rain, neon in the puddles",
     "companions": [
       {
         "name": "Saskee",
         "role": "Black cat",
         "icon": "🐈‍⬛",
         "notes": "Friendly boy, a bit of a scaredy-cat. Adores Simon.",
-        "status": "Waiting at the foot of the stairs"
+        "status": "Riding in the satchel, nose out"
       },
       {
         "name": "Suki",
         "role": "Black cat",
         "icon": "🐈‍⬛",
         "notes": "Couldn't care less about anything. Adores Simon; Alice will do.",
-        "status": "Waiting at the foot of the stairs"
+        "status": "Walking at Alice's heel"
+      },
+      {
+        "name": "Oharu",
+        "role": "Ghost of the lantern",
+        "icon": "🏮",
+        "notes": "A gentle ghost in a faded blue kimono who sings for the lantern. She comes wherever Alice carries it.",
+        "status": "In the lantern"
       }
     ]
   },
@@ -334,6 +351,6 @@
     ]
   },
   "player_notes": [],
-  "last_log": "Oharu says the lantern chose Simon to keep the light of a city called Yūgure. She doesn't know where he is.",
+  "last_log": "Alice steps through the garden door into rain and neon, with a lantern in one hand and a cat at her heel.",
   "notes": ""
 }

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-28T18:55:38Z",
+  "updated_at": "2026-10-28T19:01:55Z",
   "character": {
     "name": "Alice",
     "title": "Simon's wife",
@@ -22,8 +22,9 @@
     {
       "name": "Point and Wish",
       "kind": "power",
-      "status": "locked",
-      "description": "Sometimes, when she points at something, it seems to lean towards her finger."
+      "status": "active",
+      "description": "Point a finger and nudge the world a little: float a key across a room, flick a lock open, light a lamp, tidy a mess. Small things only, and they don't always land quite where she meant.",
+      "cost": "Free"
     },
     {
       "name": "Rhyme Spells",
@@ -379,6 +380,6 @@
     ]
   },
   "player_notes": [],
-  "last_log": "Mama Ume looks at Alice's face and then at the lantern in her hand, and puts down the glass she was polishing.",
+  "last_log": "A cork rolls along the bar and hops onto Alice's fingertip. Mama Ume asks who she has come to find.",
   "notes": ""
 }

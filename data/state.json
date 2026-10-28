@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-28T18:53:22Z",
+  "updated_at": "2026-10-28T18:55:38Z",
   "character": {
     "name": "Alice",
     "title": "Simon's wife",
@@ -209,6 +209,13 @@
         "stance": "neutral",
         "icon": "💊",
         "notes": "Brisk and wary. Hung up a lantern she says she didn't light."
+      },
+      {
+        "name": "Mama Ume",
+        "role": "Owner of Bar Kurage",
+        "stance": "neutral",
+        "icon": "🪼",
+        "notes": "Old woman with a jellyfish tattoo on her wrist. Recognised Alice's family face at once. Says she knows nothing."
       }
     ],
     "places": [
@@ -219,8 +226,8 @@
       },
       {
         "name": "Bar Kurage",
-        "notes": "3rd Canal Street. Alice has seen its violet jellyfish glow at the far end of the street, past the noodle cart, by the canal bridge.",
-        "status": "unvisited"
+        "notes": "3rd Canal Street, under the elevated line, by the stone bridge. A boathouse bar with a glowing jellyfish tank, run by Mama Ume. A curtained door at the back.",
+        "status": "visited"
       },
       {
         "name": "The Old Shrine Hill",
@@ -291,7 +298,7 @@
     ]
   },
   "world": {
-    "location": "A back alley in Yūgure",
+    "location": "Bar Kurage, 3rd Canal Street",
     "district": "Third Canal, Yūgure",
     "time": "Dusk",
     "weather": "Steady rain, neon in the puddles",
@@ -308,7 +315,7 @@
         "role": "Black cat",
         "icon": "🐈‍⬛",
         "notes": "Couldn't care less about anything. Adores Simon; Alice will do.",
-        "status": "Walking at Alice's heel"
+        "status": "On a bar stool, ignoring everyone"
       },
       {
         "name": "Oharu",
@@ -372,6 +379,6 @@
     ]
   },
   "player_notes": [],
-  "last_log": "Looking into her cats' eyes, Alice sees the street as they do. Simon's scent runs along the canal steps.",
+  "last_log": "Mama Ume looks at Alice's face and then at the lantern in her hand, and puts down the glass she was polishing.",
   "notes": ""
 }

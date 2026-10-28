@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-28T18:50:58Z",
+  "updated_at": "2026-10-28T18:53:22Z",
   "character": {
     "name": "Alice",
     "title": "Simon's wife",
@@ -14,8 +14,8 @@
   },
   "conditions": [],
   "witchlight": {
-    "current": 0,
-    "max": 0,
+    "current": 4,
+    "max": 4,
     "recovery": "A night's sleep, or a quiet hour with the cats"
   },
   "powers": [
@@ -52,8 +52,9 @@
     {
       "name": "Cat's Eyes",
       "kind": "bond",
-      "status": "locked",
-      "description": "The cats always seem to know exactly where she is. Perhaps she could know where they are."
+      "status": "active",
+      "description": "Close her eyes and see, for a few minutes, through Saskee's or Suki's. The cats go where Alice can't, and they always find their way back to her.",
+      "cost": "1 witchlight"
     },
     {
       "name": "Witch's Sight",
@@ -171,6 +172,12 @@
         "title": "The cold white lanterns",
         "text": "Here and there in Yūgure, one lantern burns a cold white among the gold ones. A pharmacist on 3rd Canal Street says they began a month ago, creeping in from the outer districts, 'where the dusk is thinning'. People don't like to touch them.",
         "source": "The pharmacy on 3rd Canal Street",
+        "status": "following"
+      },
+      {
+        "title": "Simon's scent at the canal",
+        "text": "Through Saskee's eyes: a faint trail of Simon (coffee, soap, a warm laptop) on the canal steps by the bridge, a few doors from Bar Kurage. Through Suki's: odd customers going into the bar, some of them casting no shadows.",
+        "source": "Saskee and Suki, through Cat's Eyes",
         "status": "following"
       }
     ],
@@ -365,6 +372,6 @@
     ]
   },
   "player_notes": [],
-  "last_log": "A pharmacist warns Alice off a cold white lantern. The violet jellyfish glows down the street.",
+  "last_log": "Looking into her cats' eyes, Alice sees the street as they do. Simon's scent runs along the canal steps.",
   "notes": ""
 }

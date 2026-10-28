@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-26T14:54:40Z",
+  "updated_at": "2026-10-28T18:29:57Z",
   "character": {
     "name": "Alice",
     "title": "Simon's wife",
@@ -93,10 +93,10 @@
     "questions": [
       "Where is Simon? He left without his coat, shoes, keys or phone.",
       "Where did the lantern come from, and who is singing?",
-      "What does the line on Simon's laptop say?",
       "What did Aunt Prue know about lanterns that come over the water?",
       "Where is Bar Kurage, and why does Simon's coat have its matchbook?",
-      "Why is the lantern singing Simon's name?"
+      "Why is the lantern singing Simon's name?",
+      "Who is the woman singing in the lantern, and why does she want Simon?"
     ],
     "clues": [
       {
@@ -140,6 +140,18 @@
         "text": "His passcode is Alice's birthday. Nothing to hide in his messages. His searches and notes show weeks of trying to explain the lantern: a photo of a star-in-a-circle mark on its base, 'sleep paralysis singing', 'paper lantern writing'. A note from 4 a.m.: the woman sings the same few lines and 'sounds like she's waiting'. At 7:36 tonight he started a text to Alice and never sent it: 'I think I know what she's singing. It's my name.'",
         "source": "Simon's phone",
         "status": "key"
+      },
+      {
+        "title": "The line is a song, written down",
+        "text": "Aunt Prue, hearing it described: the characters stack into a lantern because it's a calling-song, written so a lantern can read it back. A lantern calls whoever it has chosen by name. Prue says phones won't work on the other side of the door.",
+        "source": "Aunt Prue, by phone",
+        "status": "following"
+      },
+      {
+        "title": "The lantern sings Simon's name",
+        "text": "When the lantern in the study window glowed, Alice heard a woman's voice sing three low lines, and in the middle of them, Simon's name.",
+        "source": "The study lantern",
+        "status": "key"
       }
     ],
     "people": [
@@ -155,7 +167,7 @@
         "role": "Alice's aunt, the last of the family witches",
         "stance": "contact",
         "icon": "☎️",
-        "notes": "Left a letter in the loft. Her number: 01637 555 0142. Seems to know about the lantern."
+        "notes": "Answered after nine rings. 'So it's come, then.' Knows about lanterns from over the water, won't say everything on the phone. Her number: 01637 555 0142."
       }
     ],
     "places": [
@@ -223,9 +235,9 @@
     ]
   },
   "world": {
-    "location": "The back garden, at the door in the wall",
+    "location": "Home: Simon's study",
     "district": "South coast of England",
-    "time": "About twenty to nine",
+    "time": "About nine in the evening",
     "weather": "Sea fog rolling in",
     "companions": [
       {
@@ -297,6 +309,6 @@
     ]
   },
   "player_notes": [],
-  "last_log": "Bat in hand and sparks at her fingertips, Alice stands before the open door and the rain beyond it.",
+  "last_log": "Aunt Prue's line went dead as the lantern began to sing Simon's name.",
   "notes": ""
 }

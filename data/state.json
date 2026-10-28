@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-28T18:29:57Z",
+  "updated_at": "2026-10-28T18:34:52Z",
   "character": {
     "name": "Alice",
     "title": "Simon's wife",
@@ -235,7 +235,7 @@
     ]
   },
   "world": {
-    "location": "Home: Simon's study",
+    "location": "Home: the hallway",
     "district": "South coast of England",
     "time": "About nine in the evening",
     "weather": "Sea fog rolling in",
@@ -309,6 +309,6 @@
     ]
   },
   "player_notes": [],
-  "last_log": "Aunt Prue's line went dead as the lantern began to sing Simon's name.",
+  "last_log": "Prue's number rings out, and the house lights fail, one by one. The garden door is still open.",
   "notes": ""
 }

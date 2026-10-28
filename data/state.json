@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-28T18:48:15Z",
+  "updated_at": "2026-10-28T18:50:58Z",
   "character": {
     "name": "Alice",
     "title": "Simon's wife",
@@ -97,7 +97,8 @@
       "Where is Bar Kurage, and why does Simon's coat have its matchbook?",
       "Why is the lantern singing Simon's name?",
       "Who took Simon through a mirror, and where does the cold light lead?",
-      "What does it mean to 'keep the light' in Yūgure?"
+      "What does it mean to 'keep the light' in Yūgure?",
+      "Why are the lanterns of Yūgure turning cold and white?"
     ],
     "clues": [
       {
@@ -165,6 +166,12 @@
         "text": "Oharu says the lantern was sent over the water to find someone who will 'keep the light' for a city called Yūgure, and that it chose Simon. She was meant to sing him home along the lantern road. She doesn't know who took him, only that he is alive, far away and cold.",
         "source": "Oharu",
         "status": "key"
+      },
+      {
+        "title": "The cold white lanterns",
+        "text": "Here and there in Yūgure, one lantern burns a cold white among the gold ones. A pharmacist on 3rd Canal Street says they began a month ago, creeping in from the outer districts, 'where the dusk is thinning'. People don't like to touch them.",
+        "source": "The pharmacy on 3rd Canal Street",
+        "status": "following"
       }
     ],
     "people": [
@@ -188,6 +195,13 @@
         "stance": "contact",
         "icon": "🏮",
         "notes": "A ghost in a faded blue kimono, wet hair, carrying a twin of the study lantern. The lantern's voice: she was meant to sing Simon home. Wants to find him."
+      },
+      {
+        "name": "Mrs Nakagawa",
+        "role": "Pharmacist on 3rd Canal Street",
+        "stance": "neutral",
+        "icon": "💊",
+        "notes": "Brisk and wary. Hung up a lantern she says she didn't light."
       }
     ],
     "places": [
@@ -351,6 +365,6 @@
     ]
   },
   "player_notes": [],
-  "last_log": "Alice steps out onto 3rd Canal Street. At the far end, past a noodle cart, a violet jellyfish glows by the bridge.",
+  "last_log": "A pharmacist warns Alice off a cold white lantern. The violet jellyfish glows down the street.",
   "notes": ""
 }

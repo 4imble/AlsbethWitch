@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-28T18:36:51Z",
+  "updated_at": "2026-10-28T18:37:40Z",
   "character": {
     "name": "Alice",
     "title": "Simon's wife",
@@ -96,7 +96,7 @@
       "What did Aunt Prue know about lanterns that come over the water?",
       "Where is Bar Kurage, and why does Simon's coat have its matchbook?",
       "Why is the lantern singing Simon's name?",
-      "Who is the woman singing in the lantern, and why does she want Simon?"
+      "Who took Simon through a mirror, and where does the cold light lead?"
     ],
     "clues": [
       {
@@ -152,6 +152,12 @@
         "text": "When the lantern in the study window glowed, Alice heard a woman's voice sing three low lines, and in the middle of them, Simon's name.",
         "source": "The study lantern",
         "status": "key"
+      },
+      {
+        "title": "The singing woman, Oharu",
+        "text": "Lit with a Bar Kurage match, the lantern shows a woman in a faded blue kimono, hair wet, standing in the study window glass. She calls herself Oharu. She sang Simon home, but he never arrived. 'A cold light took him, and it came from a mirror.'",
+        "source": "The study lantern",
+        "status": "key"
       }
     ],
     "people": [
@@ -168,6 +174,13 @@
         "stance": "contact",
         "icon": "☎️",
         "notes": "Answered after nine rings. 'So it's come, then.' Knows about lanterns from over the water, won't say everything on the phone. Her number: 01637 555 0142."
+      },
+      {
+        "name": "Oharu",
+        "role": "The woman who sings in the lantern",
+        "stance": "contact",
+        "icon": "🏮",
+        "notes": "A ghost in a faded blue kimono with wet hair. She came to the lantern's light when Alice struck a match from the Bar Kurage matchbook. She seems to be looking for Simon too."
       }
     ],
     "places": [
@@ -235,9 +248,9 @@
     ]
   },
   "world": {
-    "location": "Home: the kitchen",
+    "location": "Home: Simon's study",
     "district": "South coast of England",
-    "time": "About ten past nine",
+    "time": "Twenty past nine",
     "weather": "Sea fog rolling in",
     "companions": [
       {
@@ -245,14 +258,14 @@
         "role": "Black cat",
         "icon": "🐈‍⬛",
         "notes": "Friendly boy, a bit of a scaredy-cat. Adores Simon.",
-        "status": "Fed, and sitting by the back door"
+        "status": "Waiting at the foot of the stairs"
       },
       {
         "name": "Suki",
         "role": "Black cat",
         "icon": "🐈‍⬛",
         "notes": "Couldn't care less about anything. Adores Simon; Alice will do.",
-        "status": "Fed, and sitting by the back door"
+        "status": "Waiting at the foot of the stairs"
       }
     ]
   },
@@ -309,6 +322,6 @@
     ]
   },
   "player_notes": [],
-  "last_log": "The cats are fed. Both of them are sitting at the back door, looking at the light on the garden wall.",
+  "last_log": "Alice lights the lantern with a match from Bar Kurage. A woman in blue stands in the window glass.",
   "notes": ""
 }

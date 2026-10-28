@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-28T18:45:44Z",
+  "updated_at": "2026-10-28T18:48:15Z",
   "character": {
     "name": "Alice",
     "title": "Simon's wife",
@@ -198,7 +198,7 @@
       },
       {
         "name": "Bar Kurage",
-        "notes": "3rd Canal Street, Yūgure, according to the matchbook.",
+        "notes": "3rd Canal Street. Alice has seen its violet jellyfish glow at the far end of the street, past the noodle cart, by the canal bridge.",
         "status": "unvisited"
       },
       {
@@ -351,6 +351,6 @@
     ]
   },
   "player_notes": [],
-  "last_log": "Alice steps through the garden door into rain and neon, with a lantern in one hand and a cat at her heel.",
+  "last_log": "Alice steps out onto 3rd Canal Street. At the far end, past a noodle cart, a violet jellyfish glows by the bridge.",
   "notes": ""
 }

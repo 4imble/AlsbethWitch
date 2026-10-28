@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-28T18:37:40Z",
+  "updated_at": "2026-10-28T18:41:02Z",
   "character": {
     "name": "Alice",
     "title": "Simon's wife",
@@ -96,7 +96,8 @@
       "What did Aunt Prue know about lanterns that come over the water?",
       "Where is Bar Kurage, and why does Simon's coat have its matchbook?",
       "Why is the lantern singing Simon's name?",
-      "Who took Simon through a mirror, and where does the cold light lead?"
+      "Who took Simon through a mirror, and where does the cold light lead?",
+      "What does it mean to 'keep the light' in Yūgure?"
     ],
     "clues": [
       {
@@ -158,6 +159,12 @@
         "text": "Lit with a Bar Kurage match, the lantern shows a woman in a faded blue kimono, hair wet, standing in the study window glass. She calls herself Oharu. She sang Simon home, but he never arrived. 'A cold light took him, and it came from a mirror.'",
         "source": "The study lantern",
         "status": "key"
+      },
+      {
+        "title": "Why Simon",
+        "text": "Oharu says the lantern was sent over the water to find someone who will 'keep the light' for a city called Yūgure, and that it chose Simon. She was meant to sing him home along the lantern road. She doesn't know who took him, only that he is alive, far away and cold.",
+        "source": "Oharu",
+        "status": "key"
       }
     ],
     "people": [
@@ -180,7 +187,7 @@
         "role": "The woman who sings in the lantern",
         "stance": "contact",
         "icon": "🏮",
-        "notes": "A ghost in a faded blue kimono with wet hair. She came to the lantern's light when Alice struck a match from the Bar Kurage matchbook. She seems to be looking for Simon too."
+        "notes": "A ghost in a faded blue kimono, wet hair, carrying a twin of the study lantern. The lantern's voice: she was meant to sing Simon home. Wants to find him."
       }
     ],
     "places": [
@@ -192,6 +199,11 @@
       {
         "name": "Bar Kurage",
         "notes": "3rd Canal Street, Yūgure, according to the matchbook.",
+        "status": "unvisited"
+      },
+      {
+        "name": "The Old Shrine Hill",
+        "notes": "Where Oharu says the lantern road should have taken Simon, in Yūgure.",
         "status": "unvisited"
       }
     ]
@@ -322,6 +334,6 @@
     ]
   },
   "player_notes": [],
-  "last_log": "Alice lights the lantern with a match from Bar Kurage. A woman in blue stands in the window glass.",
+  "last_log": "Oharu says the lantern chose Simon to keep the light of a city called Yūgure. She doesn't know where he is.",
   "notes": ""
 }

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-30T23:39:30Z",
+  "updated_at": "2026-10-30T23:42:08Z",
   "character": {
     "name": "Alice",
     "title": "Simon's wife",
@@ -94,14 +94,13 @@
     "day": 1,
     "summary": "Simon is gone. His coat, shoes, keys and phone are all still here, his tea is still warm, and the house is empty. A few weeks ago he hung an old paper lantern from the beach in his study window, and he's been hearing singing at night ever since.",
     "questions": [
-      "Where is Simon? He left without his coat, shoes, keys or phone.",
       "Where did the lantern come from, and who is singing?",
       "What did Aunt Prue know about lanterns that come over the water?",
       "Where is Bar Kurage, and why does Simon's coat have its matchbook?",
       "Why is the lantern singing Simon's name?",
-      "Who took Simon through a mirror, and where does the cold light lead?",
       "What does it mean to 'keep the light' in Yūgure?",
-      "Why are the lanterns of Yūgure turning cold and white?"
+      "Why are the lanterns of Yūgure turning cold and white?",
+      "Who is the woman with the silver thumb ring, and what do the Hoshinos want with Simon?"
     ],
     "clues": [
       {
@@ -205,6 +204,12 @@
         "text": "The hand that closed the compact wore a thin silver ring on the left thumb. Alice doesn't know whose it is.",
         "source": "Mirror Sight",
         "status": "following"
+      },
+      {
+        "title": "The Hoshino boat",
+        "text": "Ume saw the whole thing. A woman with a silver thumb ring stepped out of her mirror a week ago and again tonight; two men in grey raincoats met Simon and took him by boat along the canal. The boat's lantern bore a five-pointed star in a ring, the same mark as on Simon's lantern: Hoshino. Ume was paid to say nothing, and she's afraid the woman hears through glass.",
+        "source": "Mama Ume",
+        "status": "key"
       }
     ],
     "people": [
@@ -239,9 +244,16 @@
       {
         "name": "Mama Ume",
         "role": "Owner of Bar Kurage",
-        "stance": "suspect",
+        "stance": "ally",
         "icon": "🪼",
-        "notes": "Old woman with a jellyfish tattoo. Knew Alice's aunts. Says she's never heard of Simon, but she is lying and she is scared. Her eyes keep going to the curtained back room."
+        "notes": "Saw Simon taken and was paid to keep quiet. Ashamed and afraid. Told Alice what she knows about the woman, the boat and the Hoshino star. Doesn't want to be named."
+      },
+      {
+        "name": "Kitsune Jun",
+        "role": "Fox-masked fixer in the Lantern Market",
+        "stance": "unknown",
+        "icon": "🦊",
+        "notes": "Ume says he knows the old ways into places, for a price."
       }
     ],
     "places": [
@@ -264,6 +276,16 @@
         "name": "Yūgure",
         "notes": "The city on the other side of the garden door. A back alley, rain, neon, a long way from the south coast.",
         "status": "visited"
+      },
+      {
+        "name": "Hoshino Tower",
+        "notes": "Kōgai Heights. The Hoshino lantern-makers' black glass tower. The boat with the star lantern went that way, along the canal.",
+        "status": "unvisited"
+      },
+      {
+        "name": "The Lantern Market",
+        "notes": "Night market of stalls and stranger things. Kitsune Jun trades there.",
+        "status": "unvisited"
       }
     ]
   },
@@ -405,6 +427,6 @@
     ]
   },
   "player_notes": [],
-  "last_log": "In the back-room mirror, Alice watches Simon's last minutes in Yūgure. A hand with a silver ring closes the glass.",
+  "last_log": "Ume breaks her silence in the back room. The woman, the boat and the star all point to the Hoshinos.",
   "notes": ""
 }

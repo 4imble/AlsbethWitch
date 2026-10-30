@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-28T19:01:55Z",
+  "updated_at": "2026-10-30T23:31:49Z",
   "character": {
     "name": "Alice",
     "title": "Simon's wife",
@@ -180,6 +180,12 @@
         "text": "Through Saskee's eyes: a faint trail of Simon (coffee, soap, a warm laptop) on the canal steps by the bridge, a few doors from Bar Kurage. Through Suki's: odd customers going into the bar, some of them casting no shadows.",
         "source": "Saskee and Suki, through Cat's Eyes",
         "status": "following"
+      },
+      {
+        "title": "Ume is lying",
+        "text": "Mama Ume says she's never heard of Simon, but her eyes went to the curtained back room, her hand went to her tattoo, and she's frightened. A thread of grey wool, the kind of sock Simon wears, is caught on the curtain rail.",
+        "source": "Bar Kurage, Mama Ume",
+        "status": "key"
       }
     ],
     "people": [
@@ -214,9 +220,9 @@
       {
         "name": "Mama Ume",
         "role": "Owner of Bar Kurage",
-        "stance": "neutral",
+        "stance": "suspect",
         "icon": "🪼",
-        "notes": "Old woman with a jellyfish tattoo on her wrist. Recognised Alice's family face at once. Says she knows nothing."
+        "notes": "Old woman with a jellyfish tattoo. Knew Alice's aunts. Says she's never heard of Simon, but she is lying and she is scared. Her eyes keep going to the curtained back room."
       }
     ],
     "places": [
@@ -380,6 +386,6 @@
     ]
   },
   "player_notes": [],
-  "last_log": "A cork rolls along the bar and hops onto Alice's fingertip. Mama Ume asks who she has come to find.",
+  "last_log": "Mama Ume says she has never heard of Simon. She is lying, and a grey wool thread hangs on the back curtain.",
   "notes": ""
 }

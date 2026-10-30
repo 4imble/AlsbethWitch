@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-30T23:37:03Z",
+  "updated_at": "2026-10-30T23:39:30Z",
   "character": {
     "name": "Alice",
     "title": "Simon's wife",
@@ -41,8 +41,9 @@
     {
       "name": "Mirror Sight",
       "kind": "power",
-      "status": "locked",
-      "description": "Mirrors sometimes seem to hold on to a moment a little too long."
+      "status": "active",
+      "description": "Look into a reflection at a place (a mirror, a shop window, a puddle full of neon) and glimpse something that happened there within the last day. Clearer with something that belonged to the person she's looking for.",
+      "cost": "1 witchlight"
     },
     {
       "name": "Touchstone",
@@ -192,6 +193,18 @@
         "text": "A tall gilt mirror in Bar Kurage's storeroom, rimmed with frost that never melts. To Alice's eyes it is a door. Wet boot-prints cross the floor to it, and a wisp of grey wool is caught on the frame. Simon came through here.",
         "source": "Bar Kurage, the back room",
         "status": "key"
+      },
+      {
+        "title": "Simon's road, seen in the glass",
+        "text": "The mirror in Bar Kurage's back room is the end of a road that runs back to Alice's own study window. Reflected in it: Simon stepping out at about twenty to eight, dazed and in his socks; two men in grey raincoats and rubber boots taking his arms and walking him through the red curtain and down the canal steps to a boat. A woman's hand with a thin silver ring on the thumb closes a compact, and the picture goes out.",
+        "source": "Bar Kurage's back-room mirror (Mirror Sight)",
+        "status": "key"
+      },
+      {
+        "title": "A silver thumb ring",
+        "text": "The hand that closed the compact wore a thin silver ring on the left thumb. Alice doesn't know whose it is.",
+        "source": "Mirror Sight",
+        "status": "following"
       }
     ],
     "people": [
@@ -392,6 +405,6 @@
     ]
   },
   "player_notes": [],
-  "last_log": "In the back room of Bar Kurage, a frosted mirror stands like a door. Suki is staring into it.",
+  "last_log": "In the back-room mirror, Alice watches Simon's last minutes in Yūgure. A hand with a silver ring closes the glass.",
   "notes": ""
 }

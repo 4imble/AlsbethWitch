@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-30T23:42:08Z",
+  "updated_at": "2026-10-30T23:44:42Z",
   "character": {
     "name": "Alice",
     "title": "Simon's wife",
@@ -251,9 +251,9 @@
       {
         "name": "Kitsune Jun",
         "role": "Fox-masked fixer in the Lantern Market",
-        "stance": "unknown",
+        "stance": "contact",
         "icon": "🦊",
-        "notes": "Ume says he knows the old ways into places, for a price."
+        "notes": "Fox-masked fixer. Sells charms, doors and secrets. Will tell Alice the old ways into Hoshino Tower in return for a song from the lantern."
       }
     ],
     "places": [
@@ -284,8 +284,8 @@
       },
       {
         "name": "The Lantern Market",
-        "notes": "Night market of stalls and stranger things. Kitsune Jun trades there.",
-        "status": "unvisited"
+        "notes": "A night market of stalls under hanging lanterns, up the elevated line from San-bori. Kitsune Jun's stall sells charms and doors.",
+        "status": "visited"
       }
     ]
   },
@@ -346,8 +346,8 @@
     ]
   },
   "world": {
-    "location": "Bar Kurage: the back room",
-    "district": "Third Canal, Yūgure",
+    "location": "The Lantern Market",
+    "district": "The Lantern Market, Yūgure",
     "time": "Dusk",
     "weather": "Steady rain, neon in the puddles",
     "companions": [
@@ -363,7 +363,7 @@
         "role": "Black cat",
         "icon": "🐈‍⬛",
         "notes": "Couldn't care less about anything. Adores Simon; Alice will do.",
-        "status": "Sitting in front of the back-room mirror"
+        "status": "Riding on Alice's shoulder"
       },
       {
         "name": "Oharu",
@@ -427,6 +427,6 @@
     ]
   },
   "player_notes": [],
-  "last_log": "Ume breaks her silence in the back room. The woman, the boat and the star all point to the Hoshinos.",
+  "last_log": "At the Lantern Market, the fox-masked Jun names his price: a song from the lantern.",
   "notes": ""
 }

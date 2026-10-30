@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-30T23:33:41Z",
+  "updated_at": "2026-10-30T23:37:03Z",
   "character": {
     "name": "Alice",
     "title": "Simon's wife",
@@ -186,6 +186,12 @@
         "text": "Mama Ume says she's never heard of Simon, but her eyes went to the curtained back room, her hand went to her tattoo, and she's frightened. A thread of grey wool, the kind of sock Simon wears, is caught on the curtain rail.",
         "source": "Bar Kurage, Mama Ume",
         "status": "key"
+      },
+      {
+        "title": "The mirror in the back room",
+        "text": "A tall gilt mirror in Bar Kurage's storeroom, rimmed with frost that never melts. To Alice's eyes it is a door. Wet boot-prints cross the floor to it, and a wisp of grey wool is caught on the frame. Simon came through here.",
+        "source": "Bar Kurage, the back room",
+        "status": "key"
       }
     ],
     "people": [
@@ -305,7 +311,7 @@
     ]
   },
   "world": {
-    "location": "Bar Kurage, 3rd Canal Street",
+    "location": "Bar Kurage: the back room",
     "district": "Third Canal, Yūgure",
     "time": "Dusk",
     "weather": "Steady rain, neon in the puddles",
@@ -322,7 +328,7 @@
         "role": "Black cat",
         "icon": "🐈‍⬛",
         "notes": "Couldn't care less about anything. Adores Simon; Alice will do.",
-        "status": "On a bar stool, ignoring everyone"
+        "status": "Sitting in front of the back-room mirror"
       },
       {
         "name": "Oharu",
@@ -386,6 +392,6 @@
     ]
   },
   "player_notes": [],
-  "last_log": "Pressed hard, Ume shuts like a door. Something in the jellyfish tank is watching them both.",
+  "last_log": "In the back room of Bar Kurage, a frosted mirror stands like a door. Suki is staring into it.",
   "notes": ""
 }

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-30T23:31:49Z",
+  "updated_at": "2026-10-30T23:33:41Z",
   "character": {
     "name": "Alice",
     "title": "Simon's wife",
@@ -386,6 +386,6 @@
     ]
   },
   "player_notes": [],
-  "last_log": "Mama Ume says she has never heard of Simon. She is lying, and a grey wool thread hangs on the back curtain.",
+  "last_log": "Pressed hard, Ume shuts like a door. Something in the jellyfish tank is watching them both.",
   "notes": ""
 }
